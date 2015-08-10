@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "node tests/whitespace_test.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/MaxCDN/awesome-json-data-sets"
+  },
+  "license": "CC0 1.0",
+  "dependencies": {
+  "markdownlint": "^0.0.7"
+  }
+}
