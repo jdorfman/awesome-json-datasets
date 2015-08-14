@@ -52,7 +52,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Child Process](https://nodejs.org/api/child_process.json)
 * [Cluster](https://nodejs.org/api/cluster.json)
 
-
 ## Reddit
 * [/r/all](http://www.reddit.com/r/all.json)
 * [/r/AskReddit](https://www.reddit.com/r/AskReddit.json)
