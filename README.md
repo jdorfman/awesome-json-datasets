@@ -54,7 +54,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 
 ## Reddit
-
 * [/r/all](http://www.reddit.com/r/all.json)
 * [/r/AskReddit](https://www.reddit.com/r/AskReddit.json)
 * [/r/funny](https://www.reddit.com/r/funny.json)
@@ -70,7 +69,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 > Pro Tip: you can append `.json` to any subreddit url.
 
 ## Other
-
 * [VAT rates for EU](http://jsonvat.com/)
 
 ## More Awesome Lists
