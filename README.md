@@ -4,11 +4,52 @@ A curated list of awesome JSON datasets that don't require authentication.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![Build Status](https://travis-ci.org/jdorfman/Awesome-JSON-Datasets.svg?branch=master)](https://travis-ci.org/jdorfman/Awesome-JSON-Datasets)
 
 ## TOC
+* [Currency](#currency)
 * [GitHub API](#github-api)
+* [Node.js API](#nodejs-api)
 * [Reddit](#reddit)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
+
+## Currency
+
+* [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
+  * [USD](http://api.fixer.io/latest?base=USD)
+  * [AUD](http://api.fixer.io/latest?base=AUD)
+  * [BGN](http://api.fixer.io/latest?base=BGN)
+  * [BRL](http://api.fixer.io/latest?base=BRL)
+  * [CAD](http://api.fixer.io/latest?base=CAD)
+  * [CHF](http://api.fixer.io/latest?base=CHF)
+  * [CNY](http://api.fixer.io/latest?base=CNY)
+  * [CZY](http://api.fixer.io/latest?base=CZK)
+  * [DKK](http://api.fixer.io/latest?base=DKK)
+  * [GBP](http://api.fixer.io/latest?base=GBP)
+  * [HKD](http://api.fixer.io/latest?base=HKD)
+  * [HRK](http://api.fixer.io/latest?base=HRK)
+  * [HUF](http://api.fixer.io/latest?base=HUF)
+  * [IDR](http://api.fixer.io/latest?base=IDR)
+  * [ILS](http://api.fixer.io/latest?base=ILS)
+  * [INR](http://api.fixer.io/latest?base=INR)
+  * [JPY](http://api.fixer.io/latest?base=JPY)
+  * [KRW](http://api.fixer.io/latest?base=KRW)
+  * [MXN](http://api.fixer.io/latest?base=MXN)
+  * [MYR](http://api.fixer.io/latest?base=MYR)
+  * [NOK](http://api.fixer.io/latest?base=NOK)
+  * [NZD](http://api.fixer.io/latest?base=NZD)
+  * [PHP](http://api.fixer.io/latest?base=PHP)
+  * [PLN](http://api.fixer.io/latest?base=PLN)
+  * [RON](http://api.fixer.io/latest?base=RON)
+  * [RUB](http://api.fixer.io/latest?base=RUB)
+  * [SEK](http://api.fixer.io/latest?base=SEK)
+  * [SGD](http://api.fixer.io/latest?base=SGD)
+  * [THB](http://api.fixer.io/latest?base=THB)
+  * [TRY](http://api.fixer.io/latest?base=TRY)
+  * [ZAR](http://api.fixer.io/latest?base=ZAR)
+  * [EUR](http://api.fixer.io/latest?base=EUR)
+* [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with **symbols** you want to compare.)*
+* [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
+* [VAT rates for EU](http://jsonvat.com/)
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
@@ -66,9 +107,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
-
-## Other
-* [VAT rates for EU](http://jsonvat.com/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
