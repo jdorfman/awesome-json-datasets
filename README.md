@@ -8,6 +8,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [GitHub API](#github-api)
 * [Node.js API](#nodejs-api)
 * [Reddit](#reddit)
+* [Weather](#weather)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -107,6 +108,24 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
+
+## Weather
+* [Los Angeles](http://api.openweathermap.org/data/2.5/weather?q=Los_Angeles)
+* [New York](http://api.openweathermap.org/data/2.5/weather?q=New_York)
+* [Atlanta](http://api.openweathermap.org/data/2.5/weather?q=Atlanta)
+* [Chicago](http://api.openweathermap.org/data/2.5/weather?q=chicago)
+* [Miami](http://api.openweathermap.org/data/2.5/weather?q=miami)
+* [San Francisco](http://api.openweathermap.org/data/2.5/weather?q=San_Francisco)
+* [Charleston](http://api.openweathermap.org/data/2.5/weather?q=Charleston)
+* [Las Vegas](http://api.openweathermap.org/data/2.5/weather?q=Las_Vegas)
+* [Seattle](http://api.openweathermap.org/data/2.5/weather?q=Seattle)
+* [Washington DC](http://api.openweathermap.org/data/2.5/weather?q=Washington_DC)
+* [New Orleans](http://api.openweathermap.org/data/2.5/weather?q=New_Orleans)
+* [Louisville](http://api.openweathermap.org/data/2.5/weather?q=Louisville)
+* [Portland](http://api.openweathermap.org/data/2.5/weather?q=Portland)
+* [Ashburn](http://api.openweathermap.org/data/2.5/weather?q=Ashburn)
+* [Nashville](http://api.openweathermap.org/data/2.5/weather?q=Nashville)
+* [Austin](http://api.openweathermap.org/data/2.5/weather?q=Austin)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
