@@ -4,6 +4,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![Build Status](https://travis-ci.org/jdorfman/Awesome-JSON-Datasets.svg?branch=master)](https://travis-ci.org/jdorfman/Awesome-JSON-Datasets)
 
 ## TOC
+* [Bitcoin](#bitcoin)
 * [Currency](#currency)
 * [GitHub API](#github-api)
 * [Node.js API](#nodejs-api)
@@ -12,6 +13,25 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
+
+## Bitcoin
+* [Latest Block](https://blockchain.info/latestblock)
+* [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
+
+> Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
+
+* [Global Tickers](https://api.bitcoinaverage.com/ticker/global/)
+  * [All](https://api.bitcoinaverage.com/ticker/global/all)
+  * [USD](https://api.bitcoinaverage.com/ticker/global/USD/)
+  * [GBP](https://api.bitcoinaverage.com/ticker/global/GBP/)
+  * [EUR](https://api.bitcoinaverage.com/ticker/global/EUR/)
+  * [INR](https://api.bitcoinaverage.com/ticker/global/INR/)
+  * [AUD](https://api.bitcoinaverage.com/ticker/global/AUD/)
+  * [CAD](https://api.bitcoinaverage.com/ticker/global/CAD/)
+  * [JPY](https://api.bitcoinaverage.com/ticker/global/JPY/)
+  * [CNY](https://api.bitcoinaverage.com/ticker/global/CNY/)
+
+> Pro Tip: Currencies dedicated endpoints are available at https://api.bitcoinaverage.com/ticker/global/SYMBOL/
 
 ## Currency
 
@@ -48,7 +68,7 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [TRY](http://api.fixer.io/latest?base=TRY)
   * [ZAR](http://api.fixer.io/latest?base=ZAR)
   * [EUR](http://api.fixer.io/latest?base=EUR)
-* [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with **symbols** you want to compare.)*
+* [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
 
@@ -126,6 +146,19 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Ashburn](http://api.openweathermap.org/data/2.5/weather?q=Ashburn)
 * [Nashville](http://api.openweathermap.org/data/2.5/weather?q=Nashville)
 * [Austin](http://api.openweathermap.org/data/2.5/weather?q=Austin)
+* [Saint Louis](http://api.openweathermap.org/data/2.5/weather?q=Saint_Louis)
+* [Sedona](http://api.openweathermap.org/data/2.5/weather?q=Sedona)
+* [Honolulu](http://api.openweathermap.org/data/2.5/weather?q=Honolulu)
+* [Branson](http://api.openweathermap.org/data/2.5/weather?q=Branson)
+* [Boston](http://api.openweathermap.org/data/2.5/weather?q=Boston)
+* [Savannah](http://api.openweathermap.org/data/2.5/weather?q=Savannah)
+* [Orlando](http://api.openweathermap.org/data/2.5/weather?q=Orlando)
+* [Lahaina](http://api.openweathermap.org/data/2.5/weather?q=Lahaina)
+* [Saint Augustine](http://api.openweathermap.org/data/2.5/weather?q=Saint_Augustine)
+* [San Antonio](http://api.openweathermap.org/data/2.5/weather?q=San_Antonio)
+* [Dallas](http://api.openweathermap.org/data/2.5/weather?q=Dallas)
+
+> Pro Tip: replace the field-value for a city not listed e.g. `weather?q=city_name`.
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
