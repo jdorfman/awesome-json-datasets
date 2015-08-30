@@ -31,7 +31,7 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [JPY](https://api.bitcoinaverage.com/ticker/global/JPY/)
   * [CNY](https://api.bitcoinaverage.com/ticker/global/CNY/)
 
-> Pro Tip: Currencies dedicated endpoints are available at https://api.bitcoinaverage.com/ticker/global/SYMBOL/
+> Pro Tip: Currencies dedicated endpoints are available at [https://api.bitcoinaverage.com/ticker/global/SYMBOL/](https://api.bitcoinaverage.com/ticker/global/SYMBOL/)
 
 ## Currency
 
