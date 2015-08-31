@@ -5,10 +5,13 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## TOC
 * [Bitcoin](#bitcoin)
+* [Crime](#crime)
+  * [Police.uk](http)
 * [Currency](#currency)
 * [GitHub API](#github-api)
 * [Node.js API](#nodejs-api)
 * [Reddit](#reddit)
+* [TV Shows](#tv-shows)
 * [Weather](#weather)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
@@ -32,6 +35,19 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [CNY](https://api.bitcoinaverage.com/ticker/global/CNY/)
 
 > Pro Tip: Currencies dedicated endpoints are available at [https://api.bitcoinaverage.com/ticker/global/SYMBOL/](https://api.bitcoinaverage.com/ticker/global/SYMBOL/)
+
+## Crime
+
+* [DATA.POLICE.UK](https://data.police.uk/docs/)
+  * [Crimes at Location](https://data.police.uk/api/crimes-at-location?date=2015-02&lat=52.629729&lng=-1.131592)
+  * [Street Crime Dates](https://data.police.uk/api/crimes-street-dates)
+  * [List of Forces](https://data.police.uk/api/forces)
+    * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
+    * [Bedfordshire Police](https://data.police.uk/api/forces/bedfordshire)
+    * [Cleveland Police](https://data.police.uk/api/forces/cleveland)
+* [Street-level Crime (Lat/long)](https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&lng=-1.131592&date=2013-01)
+* [Street-level Outcomes (Lat/long)](https://data.police.uk/api/outcomes-at-location?date=2013-01&lat=52.629729&lng=-1.131592)
+* [Crimes at Location (Lat/long)](https://data.police.uk/api/crimes-at-location?date=2012-02&lat=52.629729&lng=-1.131592)
 
 ## Currency
 
@@ -128,6 +144,22 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
+
+## TV Shows
+* [Girls (HBO)](http://api.tvmaze.com/singlesearch/shows?q=hbo&embed=episodes)
+* [Dexter (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes)
+* [Shameless (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=shameless&embed=episodes)
+* [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
+* [Ray Donovan (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Ray-Donovan&embed=episodes)
+* [Better Call Saul (AMC)](http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
+* [Homeland (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
+* [Silicon Valley (HBO)](http://api.tvmaze.com/singlesearch/shows?q=silicon-valley&embed=episodes)
+* [Breaking Bad (AMC)](http://api.tvmaze.com/singlesearch/shows?q=breaking-bad&embed=episodes)
+* [The Walking Dead (AMC)](http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes)
+* [South Park (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes)
+* [Futurama (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=Futurama&embed=episodes)
+
+> Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Weather
 * [Los Angeles](http://api.openweathermap.org/data/2.5/weather?q=Los_Angeles)
