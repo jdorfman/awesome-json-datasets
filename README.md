@@ -6,7 +6,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 ## TOC
 * [Bitcoin](#bitcoin)
 * [Crime](#crime)
-  * [Police.uk](http)
 * [Currency](#currency)
 * [GitHub API](#github-api)
 * [Node.js API](#nodejs-api)
