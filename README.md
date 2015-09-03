@@ -9,6 +9,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Crime](#crime)
 * [Currency](#currency)
 * [GitHub API](#github-api)
+* [Government](#government)
 * [httpbin](#httpbin)
 * [Node.js API](#nodejs-api)
 * [Reddit](#reddit)
@@ -166,6 +167,28 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Events](https://api.github.com/events)
 * [Gists](https://api.github.com/gists)
 
+## Government
+* [Trade.gov APIs](http://developer.trade.gov/api/trade-apis.json)
+  * [Market Research Library](http://developer.trade.gov/api/market-research-library.json)
+  * [Consolidated Screening Lists](http://developer.trade.gov/api/consolidated-screening-lists.json)
+  * [Trade Events](http://developer.trade.gov/api/trade-events.json)
+  * [Trade Events](http://developer.trade.gov/api/trade-events.json)
+  * [Trade Leads](http://developer.trade.gov/api/trade-leads.json)
+  * [Tariff Rates](http://developer.trade.gov/api/tariff-rates.json)
+  * [FAQs on Exporting](http://developer.trade.gov/api/ita-faqs.json)
+  * [ITA Offices & Centers](http://developer.trade.gov/api/ita-office-locations.json)
+  * [Trade News & Articles](http://developer.trade.gov/api/ita-articles.json)
+  * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
+  * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
+  * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
+* [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
+  * [Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
+  * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
+  * [Child Care Programs](https://data.ny.gov/api/views/cb42-qumz/rows.json?accessType=DOWNLOAD)
+  * [Mental Health Programs](https://data.ny.gov/api/views/6nvr-tbv8/rows.json?accessType=DOWNLOAD)
+  * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
+  * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
+
 ## httpbin
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
@@ -175,11 +198,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [deflate](http://httpbin.org/deflate)
 * [response-headers](http://httpbin.org/response-headers?Content-Type=text/plain;%20charset=UTF-8&Server=MaxCDN)
 * [cookies](http://httpbin.org/cookies)
-* [stream](http://httpbin.org/stream/10) *(Warning: currently seeing "Parse error on line 1".)*
+* [stream](http://httpbin.org/stream/10) *(**Warning**: currently returning "Parse error on line 1".)*
 * [delay](http://httpbin.org/delay/3)
-* [cache](http://httpbin.org/cache/60) *(`60` represents seconds.)*
+* [cache](http://httpbin.org/cache/60) *(`60` === `60 seconds`)*
 
-> Pro Tip: you can do a lot more at [http://httpbin.org](http://httpbin.org/).
+> Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
@@ -292,6 +315,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [nodejs.org](https://nodejs.org)
 * [reddit.com](http://www.reddit.com)
 * [tvmaze.com](http://tvmaze.com)
+* [programmableweb.com](http://www.programmableweb.com/)
+* [data.ny.gov](https://data.ny.gov/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
