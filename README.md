@@ -5,6 +5,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## TOC
 * [Bitcoin](#bitcoin)
+* [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
 * [GitHub API](#github-api)
@@ -33,13 +34,45 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [JPY](https://api.bitcoinaverage.com/ticker/global/JPY/)
   * [CNY](https://api.bitcoinaverage.com/ticker/global/CNY/)
 
-> Pro Tip: Currencies dedicated endpoints are available at [https://api.bitcoinaverage.com/ticker/global/SYMBOL/](https://api.bitcoinaverage.com/ticker/global/SYMBOL/)
+> Pro Tip: Currencies dedicated endpoints are available at `https://api.bitcoinaverage.com/ticker/global/ENTER-SYMBOL/`
+
+## Cars
+* [All Makes](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes)
+* Makes Sold in USA
+  * [1940](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1941&sold_in_us=1)
+  * [1950](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1950&sold_in_us=1)
+  * [1960](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1960&sold_in_us=1)
+  * [1970](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1970&sold_in_us=1)
+  * [1980](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1980&sold_in_us=1)
+  * [1990](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1990&sold_in_us=1)
+  * [2000](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=2000&sold_in_us=1)
+  * [2010](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=2010&sold_in_us=1)
+
+> Pro Tip: replace the field-value for a year not listed e.g. `?&cmd=getMakes&year=1969`.
+You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
+
+* Models
+  * [Ford](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=ford)
+  * [GMC](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=gmc)
+  * [Acura](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=acura)
+  * [Cadillac](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Cadillac)
+  * [Ferrari](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Ferrari)
+  * [Jaguar](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Jaguar)
+  * [Mercedes-Benz](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Mercedes-Benz)
+  * [BMW](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=BMW)
+  * [Nissan](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Nissan)
+  * [Porsche](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Porsche)
+  * [Subaru](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Subaru)
+  * [Toyota](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Toyota)
+
+> Pro Tip: replace the field-value for a model not listed e.g. `make=CarCompany`.
 
 ## Crime
 
 * [DATA.POLICE.UK](https://data.police.uk/docs/)
   * [Crimes at Location](https://data.police.uk/api/crimes-at-location?date=2015-02&lat=52.629729&lng=-1.131592)
   * [Street Crime Dates](https://data.police.uk/api/crimes-street-dates)
+  * [Neighbourhoods](https://data.police.uk/api/leicestershire/neighbourhoods)
   * [List of Forces](https://data.police.uk/api/forces)
     * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
     * [Bedfordshire Police](https://data.police.uk/api/forces/bedfordshire)
@@ -86,12 +119,6 @@ A curated list of awesome JSON datasets that don't require authentication.
     * [Lancashire Constabulary](https://data.police.uk/api/forces/lancashire)
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
-
- * [Neighbourhoods](https://data.police.uk/api/leicestershire/neighbourhoods)
-
-* [Street-level Crime (Lat/long)](https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&lng=-1.131592&date=2013-01)
-* [Street-level Outcomes (Lat/long)](https://data.police.uk/api/outcomes-at-location?date=2013-01&lat=52.629729&lng=-1.131592)
-* [Crimes at Location (Lat/long)](https://data.police.uk/api/crimes-at-location?date=2012-02&lat=52.629729&lng=-1.131592)
 
 ## Currency
 
