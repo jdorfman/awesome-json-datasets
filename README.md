@@ -14,6 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Reddit](#reddit)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
+* [Sources](#sources)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -278,6 +279,19 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Dallas](http://api.openweathermap.org/data/2.5/weather?q=Dallas)
 
 > Pro Tip: replace the field-value for a city not listed e.g. `weather?q=city_name`.
+
+## Sources
+* [openweathermap.org](http://openweathermap.org)
+* [blockchain.info](http://blockchain.info)
+* [bitcoinaverage.com](http://bitcoinaverage.com)
+* [carqueryapi.com](http://carqueryapi.com)
+* [police.uk](http://police.uk)
+* [fixer.io](http://fixer.io)
+* [github.com](http://github.com)
+* [httpbin.org](http://httpbin.org/)
+* [nodejs.org](https://nodejs.org)
+* [reddit.com](http://www.reddit.com)
+* [tvmaze.com](http://tvmaze.com)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
