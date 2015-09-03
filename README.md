@@ -9,6 +9,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Crime](#crime)
 * [Currency](#currency)
 * [GitHub API](#github-api)
+* [httpbin](#httpbin)
 * [Node.js API](#nodejs-api)
 * [Reddit](#reddit)
 * [TV Shows](#tv-shows)
@@ -163,6 +164,21 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
 * [Gists](https://api.github.com/gists)
+
+## httpbin
+* [IP](http://httpbin.org/ip)
+* [user-agent](http://httpbin.org/user-agent)
+* [headers](http://httpbin.org/headers)
+* [GET](http://httpbin.org/get)
+* [gzip](http://httpbin.org/gzip)
+* [deflate](http://httpbin.org/deflate)
+* [response-headers](http://httpbin.org/response-headers?Content-Type=text/plain;%20charset=UTF-8&Server=MaxCDN)
+* [cookies](http://httpbin.org/cookies)
+* [stream](http://httpbin.org/stream/10) *(Warning: currently seeing "Parse error on line 1".)*
+* [delay](http://httpbin.org/delay/3)
+* [cache](http://httpbin.org/cache/60) *(`60` represents seconds.)*
+
+> Pro Tip: you can do a lot more at [http://httpbin.org](http://httpbin.org/).
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
