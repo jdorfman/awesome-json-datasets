@@ -12,6 +12,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Government](#government)
 * [httpbin](#httpbin)
 * [Node.js API](#nodejs-api)
+* [Population](#population)
 * [Reddit](#reddit)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
@@ -188,6 +189,28 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Mental Health Programs](https://data.ny.gov/api/views/6nvr-tbv8/rows.json?accessType=DOWNLOAD)
   * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
   * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
+* USA.gov
+  * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
+  * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
+    * [FBI](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49278)
+    * [CIA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52590)
+    * [DEA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52688)
+    * [TSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48143)
+    * [NSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49546)
+    * [DOJ](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52686)
+    * [DOD](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49229)
+    * [FEMA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48042)
+    * [DHS](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49022)
+    * [FDA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48058)
+    * [NASA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49476)
+    * [Secret Service](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49660)
+  * Social Media Accounts
+    * [USDA](http://registry.usa.gov/accounts.json?agency_id=usda)
+    * [FBI](http://registry.usa.gov/accounts.json?agency_id=fbi)
+    * [CIA](http://registry.usa.gov/accounts.json?agency_id=cia)
+    * [NASA](http://registry.usa.gov/accounts.json?agency_id=nasa)
+    * [FEMA](http://registry.usa.gov/accounts.json?agency_id=fema)
+    * [DHS](http://registry.usa.gov/accounts.json?agency_id=dhs)
 
 ## httpbin
 * [IP](http://httpbin.org/ip)
@@ -240,6 +263,37 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Addons](https://nodejs.org/api/addons.json)
 * [Child Process](https://nodejs.org/api/child_process.json)
 * [Cluster](https://nodejs.org/api/cluster.json)
+
+## Population
+
+* Total Population Today
+  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/)
+  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
+  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
+  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
+  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
+  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
+  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
+  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/)
+  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
+  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
+  * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
+
+> Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
+
+* United States Population Table (Ages 0-100)
+    * [1950](http://api.population.io/1.0/population/1950/United%20States/)
+    * [1960](http://api.population.io/1.0/population/1960/United%20States/)
+    * [1970](http://api.population.io/1.0/population/1970/United%20States/)
+    * [1980](http://api.population.io/1.0/population/1980/United%20States/)
+    * [1990](http://api.population.io/1.0/population/1990/United%20States/)
+    * [2000](http://api.population.io/1.0/population/2000/United%20States/)
+    * [2010](http://api.population.io/1.0/population/2010/United%20States/)
+
+> Heads up: Use `cURL` to view raw `JSON` e.g.:
+`$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
+
+* [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
 
 ## Reddit
 * [/r/all](http://www.reddit.com/r/all.json)
@@ -317,6 +371,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [tvmaze.com](http://tvmaze.com)
 * [programmableweb.com](http://www.programmableweb.com/)
 * [data.ny.gov](https://data.ny.gov/)
+* [population.io](http://population.io/)
+* [uspovertydata.com](http://uspovertydata.com/)
+* [usa.gov](http://usa.gov)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
