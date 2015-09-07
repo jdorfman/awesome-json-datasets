@@ -169,7 +169,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Gists](https://api.github.com/gists)
 
 ## Government
-* [Trade.gov APIs](http://developer.trade.gov/api/trade-apis.json)
+* [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
   * [Market Research Library](http://developer.trade.gov/api/market-research-library.json)
   * [Consolidated Screening Lists](http://developer.trade.gov/api/consolidated-screening-lists.json)
   * [Trade Events](http://developer.trade.gov/api/trade-events.json)
@@ -211,6 +211,32 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [NASA](http://registry.usa.gov/accounts.json?agency_id=nasa)
     * [FEMA](http://registry.usa.gov/accounts.json?agency_id=fema)
     * [DHS](http://registry.usa.gov/accounts.json?agency_id=dhs)
+  * [Mobile Apps](http://apps.usa.gov/apps-gallery/api/galleries.json)
+    * [FBI](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FBI*)
+    * [CIA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*CIA*)
+    * [NASA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*NASA*)
+    * [FEMA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FEMA*)
+    * [TSA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*TSA*)
+* Department of Justice
+  * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
+  * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
+  * [Speeches](http://www.justice.gov/api/v1/speeches.json?pagesize=2)
+  * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
+* Parliament of Canada
+  * [Bills](http://api.parliamentdata.ca/bills)
+  * [Representatives](http://api.parliamentdata.ca/representatives)
+  * [Committees](http://api.parliamentdata.ca/committees)
+
+> Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
+
+* EU Lobbying Transparency Register
+  * [Country](http://api.lobbyfacts.eu/api/1/country)
+  * [Entity](http://api.lobbyfacts.eu/api/1/entity)
+  * [Representative](http://api.lobbyfacts.eu/api/1/representative)
+  * [Person](http://api.lobbyfacts.eu/api/1/person)
+  * [Category](http://api.lobbyfacts.eu/api/1/category)
+  * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
+  * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 
 ## httpbin
 * [IP](http://httpbin.org/ip)
@@ -374,6 +400,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [population.io](http://population.io/)
 * [uspovertydata.com](http://uspovertydata.com/)
 * [usa.gov](http://usa.gov)
+* [justice.gov](http://www.justice.gov/)
+* [parliamentdata.ca](http://parliamentdata.ca/)
+* [lobbyfacts.eu](http://lobbyfacts.eu/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
