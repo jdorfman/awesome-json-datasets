@@ -10,10 +10,11 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Currency](#currency)
 * [GitHub API](#github-api)
 * [Government](#government)
-* [httpbin](#httpbin)
+* [HTTP](#http)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
+* [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
 * [Sources](#sources)
@@ -238,7 +239,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 
-## httpbin
+## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
 * [headers](http://httpbin.org/headers)
@@ -336,6 +337,24 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: you can append `.json` to any subreddit url.
 
+## Travel
+* FAA Airport Status
+  * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
+  * [LAX](http://services.faa.gov/airport/status/LAX?format=application/json)
+  * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
+  * [PHX](http://services.faa.gov/airport/status/PHX?format=application/json)
+  * [JFK](http://services.faa.gov/airport/status/JFK?format=application/json)
+  * [ATL](http://services.faa.gov/airport/status/ATL?format=application/json)
+  * [MIA](http://services.faa.gov/airport/status/MIA?format=application/json)
+  * [AUS](http://services.faa.gov/airport/status/AUS?format=application/json)
+  * [BOS](http://services.faa.gov/airport/status/BOS?format=application/json)
+  * [CLE](http://services.faa.gov/airport/status/CLE?format=application/json)
+  * [ORD](http://services.faa.gov/airport/status/ORD?format=application/json)
+  * [PDX](http://services.faa.gov/airport/status/PDX?format=application/json)
+  * [SJC](http://services.faa.gov/airport/status/SJC?format=application/json)
+
+> Heads up: Only works for US airports only, not international.
+
 ## TV Shows
 * [Girls (HBO)](http://api.tvmaze.com/singlesearch/shows?q=hbo&embed=episodes)
 * [Dexter (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes)
@@ -403,6 +422,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [justice.gov](http://www.justice.gov/)
 * [parliamentdata.ca](http://parliamentdata.ca/)
 * [lobbyfacts.eu](http://lobbyfacts.eu/)
+* [services.faa.gov](http://services.faa.gov/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
