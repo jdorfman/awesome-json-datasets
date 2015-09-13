@@ -17,7 +17,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
-* [Sources](#sources)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -402,33 +401,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: replace the field-value for a city not listed e.g. `weather?q=city_name`.
 
-## Sources
-* [openweathermap.org](http://openweathermap.org)
-* [blockchain.info](http://blockchain.info)
-* [bitcoinaverage.com](http://bitcoinaverage.com)
-* [carqueryapi.com](http://carqueryapi.com)
-* [police.uk](http://police.uk)
-* [fixer.io](http://fixer.io)
-* [github.com](http://github.com)
-* [httpbin.org](http://httpbin.org/)
-* [nodejs.org](https://nodejs.org)
-* [reddit.com](http://www.reddit.com)
-* [tvmaze.com](http://tvmaze.com)
-* [programmableweb.com](http://www.programmableweb.com/)
-* [data.ny.gov](https://data.ny.gov/)
-* [population.io](http://population.io/)
-* [uspovertydata.com](http://uspovertydata.com/)
-* [usa.gov](http://usa.gov)
-* [justice.gov](http://www.justice.gov/)
-* [parliamentdata.ca](http://parliamentdata.ca/)
-* [lobbyfacts.eu](http://lobbyfacts.eu/)
-* [services.faa.gov](http://services.faa.gov/)
-
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [JSON](https://github.com/burningtree/awesome-json) (Libraries and Resources)
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
