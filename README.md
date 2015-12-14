@@ -8,9 +8,11 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
 * [HTTP](#http)
+* [Media](#media)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
@@ -163,6 +165,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
 
+## Gaming
+* [BattleField 4](http://bf4stats.com/api)
+  * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
@@ -252,6 +258,19 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [cache](http://httpbin.org/cache/60) *(`60` === `60 seconds`)*
 
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
+
+## Media
+* [Giphy](https://github.com/Giphy/GiphyAPI)
+  * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
+  * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
+  * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)
+  * [Confused](http://api.giphy.com/v1/gifs/search?q=confused&api_key=dc6zaTOxFJmzC)
+  * [Angry](http://api.giphy.com/v1/gifs/search?q=angry&api_key=dc6zaTOxFJmzC)
+  * [Happy](http://api.giphy.com/v1/gifs/search?q=happy&api_key=dc6zaTOxFJmzC)
+  * [Crazy](http://api.giphy.com/v1/gifs/search?q=crazy&api_key=dc6zaTOxFJmzC)
+  * [Make it Rain](http://api.giphy.com/v1/gifs/search?q=make+it+rain&api_key=dc6zaTOxFJmzC)
+
+> Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
