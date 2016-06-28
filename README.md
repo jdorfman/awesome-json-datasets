@@ -21,6 +21,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
+* [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -421,6 +422,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Dallas](http://api.openweathermap.org/data/2.5/weather?q=Dallas)
 
 > Pro Tip: replace the field-value for a city not listed e.g. `weather?q=city_name`.
+
+## Other
+* [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
