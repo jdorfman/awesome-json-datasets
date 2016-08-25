@@ -22,6 +22,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
+* [OSI](#osi)
 * [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
@@ -322,6 +323,22 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Addons](https://nodejs.org/api/addons.json)
 * [Child Process](https://nodejs.org/api/child_process.json)
 * [Cluster](https://nodejs.org/api/cluster.json)
+
+## Open Source Licenses
+* [All](https://api.opensource.org/licenses/)
+* [Copyleft](https://api.opensource.org/licenses/copyleft)
+* [OSI Approved](https://api.opensource.org/licenses/osi-approved)
+* [Redundant](https://api.opensource.org/licenses/redundant)
+* [Permissive](https://api.opensource.org/licenses/permissive)
+* [Obsolete](https://api.opensource.org/licenses/obsolete)
+* [Misc](https://api.opensource.org/licenses/miscellaneous)
+* [Popular](https://api.opensource.org/licenses/popular)
+* [Discouraged](https://api.opensource.org/licenses/discouraged)
+* [Non-reusable](https://api.opensource.org/licenses/non-reusable)
+* [Special Purpose](https://api.opensource.org/licenses/special-purpose)
+* [Retired](https://api.opensource.org/licenses/retired)
+
+> Become an OSI member [here](https://opensource.org/civicrm/contribute/transact?reset=1&id=1)
 
 ## Population
 
