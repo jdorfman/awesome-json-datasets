@@ -335,7 +335,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Popular](https://api.opensource.org/licenses/popular)
 * [Discouraged](https://api.opensource.org/licenses/discouraged)
 * [Non-reusable](https://api.opensource.org/licenses/non-reusable)
-* [Special Purpose](https://api.opensource.org/licenses/special-purpose	)
+* [Special Purpose](https://api.opensource.org/licenses/special-purpose)
 * [Retired](https://api.opensource.org/licenses/retired)
 
 > Become an OSI member [here](https://opensource.org/civicrm/contribute/transact?reset=1&id=1)
