@@ -15,6 +15,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Government](#government)
 * [HTTP](#http)
 * [Media](#media)
+* [NASA](#nasa)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
@@ -274,6 +275,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Make it Rain](http://api.giphy.com/v1/gifs/search?q=make+it+rain&api_key=dc6zaTOxFJmzC)
 
 > Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
+
+## NASA
+* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
+* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
+* [Electric Arc Shock Tube (EAST) Test 52 Data](https://data.nasa.gov/api/views/eiwv-s7fe)
+* [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
+* [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
+* [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
+
+> Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
