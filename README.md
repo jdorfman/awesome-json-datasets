@@ -22,7 +22,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Weather](#weather)
-* [OSI](#osi)
+* [Open Source Licenses](#open-source-licenses)
 * [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
