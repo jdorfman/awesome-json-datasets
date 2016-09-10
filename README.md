@@ -3,10 +3,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![Build Status](https://travis-ci.org/jdorfman/awesome-json-datasets.svg)](https://travis-ci.org/jdorfman/awesome-json-datasets)
 
-<center>
-<div style="position: relative; max-width: 320px;"><div style="display: table;background-color: #FFF;border-top-right-radius: 4px;border-top-left-radius: 4px;text-align: center;position: relative;min-height: 218px;width: 100%;"><div style="display: table-cell;vertical-align: middle;"><img src="https://www.stickermule.com/marketplace/embed_img/10034" style="max-width:100%;"></div></div><div style="padding: 0px 0px 15px 0px;border-bottom-right-radius: 4px;border-bottom-left-radius: 4px;display:table; background-color: #FFF; width:100%;"><div style="text-align: center;display: table-cell;border-top-width: 0px;padding-top: 15px;"><a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank" rel="noopener noreferrer" style="display: inline-block;font-size: 1.2rem;padding: 17px 25px;background-color: #5ba4e6;border-radius: 6px;overflow: hidden;text-align: center;vertical-align: middle;cursor: pointer;border: none;color: #FFF;font-weight: bold;font-family: 'Helvetica Neue',Helvetica, Arial, sans-serif;text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);letter-spacing: 0px;line-height: 1.2;-webkit-font-smoothing: antialiased;-webkit-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);-ms-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);-moz-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);-o-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.15);text-decoration: none;">Buy this sticker</a></div></div></div>
-</center>
-
+<h3 align="center">
+<div><div><div><a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" style="max-width:100%;"></a></div></div><div><div><a href="https://www.stickermule.com/marketplace/10034-awesome">Buy this sticker</a></div></div></div>
+</h3>
 **Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ## TOC
