@@ -198,6 +198,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+  * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
   * [Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
   * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
