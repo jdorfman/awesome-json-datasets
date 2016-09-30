@@ -15,5 +15,8 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 # How to set up and run tests from the command line
-`npm install`
-`npm test`
+- `cd awesome-json-datasets`
+- `npm install`
+- `npm test`
+
+Questions? Stuck with an error message? Make an Issue and we will help you out as best we can! 
