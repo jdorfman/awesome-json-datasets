@@ -241,6 +241,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Bills](http://api.parliamentdata.ca/bills)
   * [Representatives](http://api.parliamentdata.ca/representatives)
   * [Committees](http://api.parliamentdata.ca/committees)
+* Scottish Parliament
+  * [Departments](https://data.parliament.scot/api/departments)
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
