@@ -9,7 +9,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 **Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 
-## TOC
+## Table of Contents (TOC)
 * [Bitcoin](#bitcoin)
 * [Cars](#cars)
 * [Crime](#crime)
