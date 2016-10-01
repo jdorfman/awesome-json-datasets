@@ -406,6 +406,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
   * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
   * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
+  * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
+  * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
