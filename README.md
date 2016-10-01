@@ -9,7 +9,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 **Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 
-## TOC
+## Table of Contents (TOC)
 * [Bitcoin](#bitcoin)
 * [Cars](#cars)
 * [Crime](#crime)
@@ -199,6 +199,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
+  * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
   * [Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
   * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
@@ -243,6 +244,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Bills](http://api.parliamentdata.ca/bills)
   * [Representatives](http://api.parliamentdata.ca/representatives)
   * [Committees](http://api.parliamentdata.ca/committees)
+* Scottish Parliament
+  * [Departments](https://data.parliament.scot/api/departments)
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
@@ -255,6 +258,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Road Restrictions](http://www1.toronto.ca/transportation/roadrestrictions/RoadRestrictions.json)
 * [Toronto Public Library](http://opendata.tplcs.ca/)
   * [Top Website Searches from 2010 to 2014](http://opendata.tplcs.ca/data/TPL_top_website_searches_2010-2014.json)
+* [California](http://boundaries.latimes.com/sets/)
+  * [U.S. Congressional Districts of California, 2011](http://boundaries.latimes.com/1.0/boundary-set/us-congressional-districts-2011/)
+  * [State Senate Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-senate-districts-2011.json)
+  * [State Assembly Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-assembly-districts-2011.json)
+  * [State Secondary School Districts, 2012](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/secondary-school-districts-2012.json)
 * [County of Los Angeles](https://data.lacounty.gov/)
   * [Public Library Monthly Circulation](https://data.lacounty.gov/api/views/gf6j-sjun/rows.json?accessType=DOWNLOAD)
   * [Employee Salaries](https://data.lacounty.gov/api/views/8rdv-6nb6/rows.json?accessType=DOWNLOAD)
