@@ -295,7 +295,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Category](http://api.lobbyfacts.eu/api/1/category)
   * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
-
+* Government of India
+  * [State Codes](http://vocab.nic.in/rest.php/states/json)
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
