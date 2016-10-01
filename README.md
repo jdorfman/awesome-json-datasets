@@ -177,6 +177,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Dota 2](http://dev.dota2.com/showthread.php?t=47115)
+*
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
