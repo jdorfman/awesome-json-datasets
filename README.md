@@ -291,6 +291,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Category](http://api.lobbyfacts.eu/api/1/category)
   * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
+* [Australia](Data.gov.au)
+  * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
+  * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
+  * [Boat Ramps in the Gold Coast Area](http://data.gov.au/geoserver/boat-ramps/wfs?request=GetFeature&typeName=af1b8d1c_a186_4e72_8e9e_549a8065e970&outputFormat=json)
+  * [Indigenous Land Use Agreements (Registered or in Notification)](http://data.gov.au/geoserver/indigenous-land-use-agreements-registered-or-in-notification/wfs?request=GetFeature&typeName=ckan_9e837144_8070_4983_8bf0_15e7ceb56ed7&outputFormat=json)
+  * [Noosa Wedding Locations](http://data.gov.au/geoserver/noosa-wedding-locations/wfs?request=GetFeature&typeName=17a54ec7_914b_4c60_b194_b0d190803001&outputFormat=json)
+  * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
