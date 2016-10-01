@@ -336,6 +336,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
+## Natural Disasters
+* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
 * [Crypto](https://nodejs.org/api/crypto.json)
