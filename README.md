@@ -298,6 +298,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 * Government of India
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
+  * [Consumer Price Index](https://data.gov.in/node/1084041/datastore/export/json)
+  * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
+  * [Agriculture Production](https://data.gov.in/node/135611/datastore/export/json)
+  * [Number of Districts/DRDAs/Blocks/Villages](https://data.gov.in/node/100853/datastore/export/json)
+
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
