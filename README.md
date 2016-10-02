@@ -135,6 +135,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
 
+
 ## Currency
 
 * [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
@@ -430,6 +431,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
+
+* City of Copenhagen 1890 - 1924 (Politietsregisterblade.dk)
+  * [Persons](http://www.politietsregisterblade.dk/api/1?type=person)
+  * [Addresses](http://www.politietsregisterblade.dk/api/1?type=address)
+  * [Roads](http://www.politietsregisterblade.dk/api/1?type=road&name=gade)
 
 * United States Population Table (Ages 0-100)
     * [1950](http://api.population.io/1.0/population/1950/United%20States/)
