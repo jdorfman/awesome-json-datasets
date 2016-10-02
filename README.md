@@ -489,6 +489,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
+## Job Searching in Federal, State, and Local Government Agencies
+* [Computer Engineer](https://api.usa.gov/jobs/search.json?query=computer+jobs)
+* [Nursing - Wisconsin](https://api.usa.gov/jobs/search.json?query=nursing+jobs+in+wi)
+* [Construction](https://api.usa.gov/jobs/search.json?query=construction+jobs)
+
+> Pro Tip: find more jobs in different locations at [Digital Gov](http://search.digitalgov.gov/developer/jobs.html)
+
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
 
