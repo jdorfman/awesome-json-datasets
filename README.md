@@ -177,6 +177,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Magic: The Gathering](magic.wizards.com)
+  * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
+  * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
+  * [MTG LEB Set](http://mtgjson.com/json/LEB.json)
+  * [MTG LEB Set + Extras](http://mtgjson.com/json/LEB-x.json)
+  * [MTG ARN Set](http://mtgjson.com/json/ARN.json)
+  * [MTG ARN Set + Extras](http://mtgjson.com/json/ARN-x.json)
+
+> Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
+
 * Hearthstone
   * [Cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
   * [Collectible cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
@@ -306,6 +316,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 * Government of India
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
+  * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
 * [Australia](Data.gov.au)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
