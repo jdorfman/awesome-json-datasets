@@ -177,6 +177,15 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Magic: The Gathering](magic.wizards.com)
+  * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
+  * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
+  * [MTG LEB Set](http://mtgjson.com/json/LEB.json)
+  * [MTG LEB Set + Extras](http://mtgjson.com/json/LEB-x.json)
+  * [MTG ARN Set](http://mtgjson.com/json/ARN.json)
+  * [MTG ARN Set + Extras](http://mtgjson.com/json/ARN-x.json)
+
+> Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
