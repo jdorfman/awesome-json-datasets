@@ -135,7 +135,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
 
-
 ## Currency
 
 * [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
