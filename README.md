@@ -17,7 +17,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
-* [Hearthstone] (#hearthstone)
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
@@ -178,6 +177,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* Hearthstone
+  * [Cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
+  * [Collectible cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
+  * [Cardbacks](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
+
+> Pro Tip: you can replace the language **enUS** with the following language tags: all, deDE, esES, esMX, frFR, itIT, jaJP, koKR, plPL, ptBR, ruRU, thTH, zhCN and zhTW.
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
@@ -308,13 +313,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Indigenous Land Use Agreements (Registered or in Notification)](http://data.gov.au/geoserver/indigenous-land-use-agreements-registered-or-in-notification/wfs?request=GetFeature&typeName=ckan_9e837144_8070_4983_8bf0_15e7ceb56ed7&outputFormat=json)
   * [Noosa Wedding Locations](http://data.gov.au/geoserver/noosa-wedding-locations/wfs?request=GetFeature&typeName=17a54ec7_914b_4c60_b194_b0d190803001&outputFormat=json)
   * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
-
-## Hearthstone
-* [Cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
-* [Collectible cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
-* [Cardbacks](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
-
-> Pro Tip: you can replace the language **enUS** with the following language tags: all, deDE, esES, esMX, frFR, itIT, jaJP, koKR, plPL, ptBR, ruRU, thTH, zhCN and zhTW.
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
