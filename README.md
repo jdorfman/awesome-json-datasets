@@ -492,6 +492,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
 
+## Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)
+* [JSON](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
+
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [Help Wanted](https://github.com/jdorfman/awesome-help-wanted) *(Open Source projects looking for Help)*
