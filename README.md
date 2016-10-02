@@ -182,6 +182,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
 * [Gists](https://api.github.com/gists)
+* [Meta](https://api.github.com/meta)
 
 ## Government
 * [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
@@ -198,6 +199,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+* [DATA.CA.GOV](https://data.ca.gov/)
+  * [Chemicals In Cosmetics](https://chhs.data.ca.gov/api/views/7kri-yb7t/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
   * [Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
   * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
@@ -205,6 +208,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Mental Health Programs](https://data.ny.gov/api/views/6nvr-tbv8/rows.json?accessType=DOWNLOAD)
   * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
   * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
+  * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -244,6 +248,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Committees](http://api.parliamentdata.ca/committees)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
+  * [Events](https://data.parliament.scot/api/events)
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
@@ -291,6 +296,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Category](http://api.lobbyfacts.eu/api/1/category)
   * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
+* Government of India
+  * [State Codes](http://vocab.nic.in/rest.php/states/json)
 * [Australia](Data.gov.au)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
@@ -336,6 +343,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
+
+## Natural Disasters
+* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
@@ -404,6 +414,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
   * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
   * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
+  * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
+  * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
