@@ -298,13 +298,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 * Government of India
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
-  
 
 * Job Searching in Federal, State, and Local Government Agencies
   * [Computer Engineer](https://api.usa.gov/jobs/search.json?query=computer+jobs)
   * [Construction](https://api.usa.gov/jobs/search.json?query=construction+jobs)
   * [Nursing - Wisconsin](https://api.usa.gov/jobs/search.json?query=nursing+jobs+in+wi)
   * [Accounting - New York](https://api.usa.gov/jobs/search.json?query=accounting+jobs+in+ny)
+  * [Doctor State Agencies](https://api.usa.gov/jobs/search.json?query=doctor+jobs&tags=state)
 
 > Pro Tip: find more jobs in different locations at [Digital Gov](http://search.digitalgov.gov/developer/jobs.html)
 
