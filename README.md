@@ -198,8 +198,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
-  * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
-* [DATA.CA.GOV](https://data.ca.gov/)
+  * [DATA.CA.GOV](https://data.ca.gov/)
   * [Chemicals In Cosmetics](https://chhs.data.ca.gov/api/views/7kri-yb7t/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
   * [Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
@@ -209,6 +208,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
   * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
   * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
+* CDC.gov
+ * [Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
+ * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+
+
+
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -491,9 +496,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
-
-## Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)
-* [JSON](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
