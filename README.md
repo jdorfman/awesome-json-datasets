@@ -320,6 +320,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
 * [Amsterdam](https://data.amsterdam.nl/dataset?res_format=JSON)
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
+  * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
