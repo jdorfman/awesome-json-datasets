@@ -429,6 +429,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
   * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
   * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
+  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
@@ -513,6 +514,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
+* [Industries](https://www.sajari.com/free-data/industries.json)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
