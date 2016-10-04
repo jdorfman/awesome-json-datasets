@@ -525,6 +525,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
+## Consumer Complaint Database
+* [JSON](http://data.consumerfinance.gov/api/views.json)
+
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
 
