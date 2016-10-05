@@ -358,6 +358,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
 * [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
 * [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
+* [ISS Current Location](http://api.open-notify.org/iss-now.json)
+* [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
