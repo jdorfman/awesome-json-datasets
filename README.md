@@ -222,8 +222,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
      *[Consumer Complaint Database]((http://data.consumerfinance.gov/api/views.json))
-
-
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
     * [FBI](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49278)
     * [CIA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52590)
