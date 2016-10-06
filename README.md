@@ -221,6 +221,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
+     *[Consumer Complaint Database]((http://data.consumerfinance.gov/api/views.json))
+
+
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
     * [FBI](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49278)
     * [CIA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52590)
@@ -525,8 +528,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
-## Consumer Complaint Database
-* [JSON](http://data.consumerfinance.gov/api/views.json)
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
