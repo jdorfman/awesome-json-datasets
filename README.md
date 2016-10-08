@@ -209,6 +209,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
   * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
+  * [Healthcare Associated Infections - Hospital](https://data.medicare.gov/api/views/77hc-ibv8/rows.json?accessType=DOWNLOAD)
 * [DATA.CA.GOV](https://data.ca.gov/)
   * [Chemicals In Cosmetics](https://chhs.data.ca.gov/api/views/7kri-yb7t/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
