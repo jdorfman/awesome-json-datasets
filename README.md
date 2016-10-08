@@ -208,6 +208,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+  * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
 * [DATA.CA.GOV](https://data.ca.gov/)
   * [Chemicals In Cosmetics](https://chhs.data.ca.gov/api/views/7kri-yb7t/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
@@ -219,6 +220,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
   * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
   * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
+  * [Social Media Usage](https://data.cityofnewyork.us/api/views/5b3a-rs48/rows.json?accessType=DOWNLOAD)
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -260,6 +262,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
   * [Government Roles](https://data.parliament.scot/api/governmentroles)
+  * [Members](https://data.parliament.scot/api/members)
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
@@ -317,6 +320,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Indigenous Land Use Agreements (Registered or in Notification)](http://data.gov.au/geoserver/indigenous-land-use-agreements-registered-or-in-notification/wfs?request=GetFeature&typeName=ckan_9e837144_8070_4983_8bf0_15e7ceb56ed7&outputFormat=json)
   * [Noosa Wedding Locations](http://data.gov.au/geoserver/noosa-wedding-locations/wfs?request=GetFeature&typeName=17a54ec7_914b_4c60_b194_b0d190803001&outputFormat=json)
   * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
+* Amsterdam
+  * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
+  * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
+  * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
 
 * Job Searching in Federal, State, and Local Government Agencies
   * [Computer Engineer](https://api.usa.gov/jobs/search.json?query=computer+jobs)
@@ -362,6 +369,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
 * [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
 * [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
+* [ISS Current Location](http://api.open-notify.org/iss-now.json)
+* [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
@@ -437,6 +446,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
   * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
   * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
+  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
@@ -521,6 +531,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
+* [Industries](https://www.sajari.com/free-data/industries.json)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
