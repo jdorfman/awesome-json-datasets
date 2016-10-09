@@ -314,7 +314,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * Government of India
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
   * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
-* [Australia](Data.gov.au)
+  * [Australia](Data.gov.au)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
   * [Boat Ramps in the Gold Coast Area](http://data.gov.au/geoserver/boat-ramps/wfs?request=GetFeature&typeName=af1b8d1c_a186_4e72_8e9e_549a8065e970&outputFormat=json)
@@ -325,6 +325,15 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
+
+* Job Searching in Federal, State, and Local Government Agencies
+  * [Computer Engineer](https://api.usa.gov/jobs/search.json?query=computer+jobs)
+  * [Construction](https://api.usa.gov/jobs/search.json?query=construction+jobs)
+  * [Nursing - Wisconsin](https://api.usa.gov/jobs/search.json?query=nursing+jobs+in+wi)
+  * [Accounting - New York](https://api.usa.gov/jobs/search.json?query=accounting+jobs+in+ny)
+  * [Doctor State Agencies](https://api.usa.gov/jobs/search.json?query=doctor+jobs&tags=state)
+
+> Pro Tip: find more jobs in different locations at [Digital Gov](http://search.digitalgov.gov/developer/jobs.html)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
