@@ -184,6 +184,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [MTG LEB Set + Extras](http://mtgjson.com/json/LEB-x.json)
   * [MTG ARN Set](http://mtgjson.com/json/ARN.json)
   * [MTG ARN Set + Extras](http://mtgjson.com/json/ARN-x.json)
+* [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
 
 > Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
