@@ -25,6 +25,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
+* [Movies](#movies)
 * [Weather](#weather)
 * [Open Source Licenses](#open-source-licenses)
 * [Other](#other)
