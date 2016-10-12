@@ -191,6 +191,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
+* [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
+
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
