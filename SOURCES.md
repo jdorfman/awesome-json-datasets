@@ -19,4 +19,3 @@
 * [parliamentdata.ca](http://parliamentdata.ca/)
 * [lobbyfacts.eu](http://lobbyfacts.eu/)
 * [services.faa.gov](http://services.faa.gov/)
-* [ddragon.leageoflegends.com](http://ddragon.leagueoflegends.com/tool)
