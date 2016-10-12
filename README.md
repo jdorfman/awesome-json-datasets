@@ -503,6 +503,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [The Walking Dead (AMC)](http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes)
 * [South Park (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes)
 * [Futurama (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=Futurama&embed=episodes)
+* [Game of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
+* [Lost (ABC)](http://api.tvmaze.com/singlesearch/shows?q=lost&embed=episodes)
+* [24 (FOX)](http://api.tvmaze.com/singlesearch/shows?q=24&embed=episodes)
+* [Prison Break (FOX)](http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes)
+* [House of Cards (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes)
+* [Seinfeld (NBC)](http://api.tvmaze.com/singlesearch/shows?q=seinfeld&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
