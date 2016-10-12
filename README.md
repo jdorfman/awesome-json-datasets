@@ -191,6 +191,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
+* [League of Legends: Data Dragon Tool (not JSON)](http://ddragon.leagueoflegends.com/tool/)
+  * [League of Legends: Profile Icons (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/profileicon.json)
+  * [Leage of Legends: Champions (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/champion.json)
+  * [League of Legends: Items (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/item.json)
+  * [League of Legends: Masteries (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/mastery.json)
+  * [League of Legends: Runes (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/rune.json)
+  * [League of Legends: Summoner Spells (Static JSON, v. 6.20.1)](http://ddragon.leagueoflegends.com/cdn/6.20.1/data/en_US/summoner.json)
+
+> Riot Games hosts dynamic Leage of Legends (LoL) API endpoints, but requires an API key. [Start Here.](https://developer.riotgames.com/docs/getting-started)
+
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
