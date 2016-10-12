@@ -141,7 +141,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Locations of courts in England and Wales](https://courttribunalfinder.service.gov.uk/courts.json)
   * [Court Postcode Search](https://courttribunalfinder.service.gov.uk/search/results.json?postcode=SW1H9AJ)
   * [Court Name Search](https://courttribunalfinder.service.gov.uk/search/results.json?q=old+bailey)
- 
+
 ## Currency
 
 * [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
