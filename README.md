@@ -207,9 +207,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
-  * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
   * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
-  * [Healthcare Associated Infections - Hospital](https://data.medicare.gov/api/views/77hc-ibv8/rows.json?accessType=DOWNLOAD)
 * [DATA.CA.GOV](https://data.ca.gov/)
   * [Chemicals In Cosmetics](https://chhs.data.ca.gov/api/views/7kri-yb7t/rows.json?accessType=DOWNLOAD)
 * [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
@@ -327,6 +325,33 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
 
+## Health
+* CDC.gov
+  * [US Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+  * [Youth Tobacco Survey (YTS) Data](https://chronicdata.cdc.gov/api/views/4juz-x2tp/rows.json?accessType=DOWNLOAD)
+  * [Impaired Driving Death Rate, by Age and Gender, 2012 - 2014, All States](https://data.cdc.gov/api/views/ebbj-sh54/rows.json?accessType=DOWNLOAD)
+  * [Behavioral Risk Factor Data: Health-Related Quality of Life (HRQOL)](https://chronicdata.cdc.gov/api/views/xuxn-8kju/rows.json?accessType=DOWNLOAD)
+  * [Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 &amp; 2014, All States](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
+  * [NCHS - Births, Birth Rates, and Fertility Rates, by Race of Mother: United States, 1960-2013](https://data.cdc.gov/api/views/89yk-m38d/rows.json?accessType=DOWNLOAD)
+  * [Behavioral Risk Factor Data: Tobacco Use (2011 to present)](https://chronicdata.cdc.gov/api/views/wsas-xwh5/rows.json?accessType=DOWNLOAD)
+  * [NCHS - Age-adjusted death rates and life-expectancy at birth, (All Races, Both Sexes): United States, 1900-2013](https://data.cdc.gov/api/views/w9j2-ggv5/rows.json?accessType=DOWNLOAD)
+  * [Behavioral Risk Factor Data: Heart Disease &amp; Stroke Prevention](https://chronicdata.cdc.gov/api/views/4ny5-qn3w/rows.json?accessType=DOWNLOAD)
+  * [Air Quality Measures on the National Environmental Health Tracking Network](https://data.cdc.gov/api/views/cjae-szjv/rows.json?accessType=DOWNLOAD)
+  * [NNDSS - Table I. infrequently reported notifiable diseases](https://data.cdc.gov/api/views/dwqk-w36f/rows.json?accessType=DOWNLOAD)
+* Medicare.gov
+  * [Healthcare Associated Infections - Hospital](https://data.medicare.gov/api/views/77hc-ibv8/rows.json?accessType=DOWNLOAD)
+  * [Readmissions and Deaths - Hospital](https://data.medicare.gov/api/views/ynj2-r877/rows.json?accessType=DOWNLOAD)
+  * [Timely and Effective Care - Hospital](https://data.medicare.gov/api/views/yv7e-xc69/rows.json?accessType=DOWNLOAD)
+  * [Medicare Hospital Spending Per Patient - Hospital](https://data.medicare.gov/api/views/rrqw-56er/rows.json?accessType=DOWNLOAD)
+  * [Patient survey (HCAHPS) - Hospital](https://data.medicare.gov/api/views/dgck-syfz/rows.json?accessType=DOWNLOAD)
+  * [Medicare Hospital Spending by Claim](https://data.medicare.gov/api/views/nrth-mfg3/rows.json?accessType=DOWNLOAD)
+  * [Hospital Readmissions Reduction Program](https://data.medicare.gov/api/views/9n3s-kdb3/rows.json?accessType=DOWNLOAD)
+  * [Medicare State Averages](https://data.medicare.gov/api/views/xcdc-v8bm/rows.json?accessType=DOWNLOAD)
+  * [Healthcare Associated Infections - National](https://data.medicare.gov/api/views/yd3s-jyhd/rows.json?accessType=DOWNLOAD)
+  * [Timely and Effective Care - National](https://data.medicare.gov/api/views/isrn-hqyy/rows.json?accessType=DOWNLOAD)
+  * [Hospital General Information](https://data.medicare.gov/api/views/xubh-q36u/rows.json?accessType=DOWNLOAD)
+  * [Complications - Hospital](https://data.medicare.gov/api/views/632h-zaca/rows.json?accessType=DOWNLOAD)
+  
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
