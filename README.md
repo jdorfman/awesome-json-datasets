@@ -525,6 +525,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
 * [Industries](https://www.sajari.com/free-data/industries.json)
+* [Hackerspaces](http://spaceapi.net/directory.json) *implementing the [Space API](http://spaceapi.net/)*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
