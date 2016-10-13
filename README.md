@@ -180,6 +180,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* Hearthstone
+  * [Cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
+  * [Collectible cards](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
+  * [Cardbacks](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
+
+> Pro Tip: you can replace the language **enUS** with the following language tags: all, deDE, esES, esMX, frFR, itIT, jaJP, koKR, plPL, ptBR, ruRU, thTH, zhCN and zhTW.
+
 * [Magic: The Gathering](magic.wizards.com)
   * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
