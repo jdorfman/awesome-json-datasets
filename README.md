@@ -14,6 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Development](#development)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
@@ -173,6 +174,15 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+
+## Development
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+  * [Posts](https://jsonplaceholder.typicode.com/posts)
+  * [Comments](https://jsonplaceholder.typicode.com/comments)
+  * [Albums](https://jsonplaceholder.typicode.com/albums)
+  * [Photos](https://jsonplaceholder.typicode.com/photos)
+  * [ToDos](https://jsonplaceholder.typicode.com/todos)
+  * [Users](https://jsonplaceholder.typicode.com/users)
 
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
