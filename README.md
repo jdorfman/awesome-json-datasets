@@ -257,6 +257,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
   * [Speeches](http://www.justice.gov/api/v1/speeches.json?pagesize=2)
   * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
+* Department of Labor
+  * [Total Private Average Weekly Hours of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
+  * [Total Private Average Hourly Earnings of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
 * Parliament of Canada
   * [Bills](http://api.parliamentdata.ca/bills)
   * [Representatives](http://api.parliamentdata.ca/representatives)
