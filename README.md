@@ -460,6 +460,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * Historical Population (Since 1960)
   * [United States](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
+  * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
 > Heads up: Use `cURL` to view raw `JSON` e.g.:
 `$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
