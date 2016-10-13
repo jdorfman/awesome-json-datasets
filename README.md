@@ -510,7 +510,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Shameless (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=shameless&embed=episodes)
 * [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
 * [Prison Break (FOX)](http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes)
-* [Gravity Falls (Disney XD)](http://api.tvmaze.com/singlesearch/shows?q=gravity-falls&embed=episodes) 
+* [Gravity Falls (Disney XD)](http://api.tvmaze.com/singlesearch/shows?q=gravity-falls&embed=episodes)
 * [Ray Donovan (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Ray-Donovan&embed=episodes)
 * [Better Call Saul (AMC)](http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
 * [Homeland (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
