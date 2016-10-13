@@ -474,6 +474,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [/r/IAmA](https://www.reddit.com/r/IAmA.json)
 * [/r/videos](https://www.reddit.com/r/videos.json)
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
+[/r/linux](https://www.reddit.com/r/linux.json)
+
 
 > Pro Tip: you can append `.json` to any subreddit url.
 
