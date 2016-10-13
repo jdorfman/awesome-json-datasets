@@ -327,12 +327,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
 * UK Environmental Agency
-  *[Flood Warning](http://environment.data.gov.uk/flood-monitoring/id/floods)
-  *[Flood Areas](http://environment.data.gov.uk/flood-monitoring/id/floodAreas)
-  *[Stations](http://environment.data.gov.uk/flood-monitoring/id/stations)
-  *[Measures](http://environment.data.gov.uk/flood-monitoring/id/measures)
-  *[Readings](http://environment.data.gov.uk/flood-monitoring/data/readings)
-  *[3 day risk forecast](http://environment.data.gov.uk/flood-monitoring/id/3dayforecast)
+  * [Flood Warning](http://environment.data.gov.uk/flood-monitoring/id/floods)
+  * [Flood Areas](http://environment.data.gov.uk/flood-monitoring/id/floodAreas)
+  * [Stations](http://environment.data.gov.uk/flood-monitoring/id/stations)
+  * [Measures](http://environment.data.gov.uk/flood-monitoring/id/measures)
+  * [Readings](http://environment.data.gov.uk/flood-monitoring/data/readings)
+  * [3 day risk forecast](http://environment.data.gov.uk/flood-monitoring/id/3dayforecast)
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
