@@ -136,8 +136,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Lancashire Constabulary](https://data.police.uk/api/forces/lancashire)
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
-* [DATA.GOV](https://www.data.gov/local/)
-  * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
 
 ## Currency
 
