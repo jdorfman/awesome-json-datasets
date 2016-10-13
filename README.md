@@ -23,6 +23,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
+* [Sports](#sports)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Movies](#movies)
@@ -476,6 +477,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
+
+## Sports
+* Soccer
+  * [Upcoming Fixtures](http://api.football-data.org/v1/fixtures)
 
 ## Travel
 * FAA Airport Status
