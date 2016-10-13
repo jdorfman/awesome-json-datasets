@@ -17,6 +17,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
+* [Health](#health)
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
@@ -351,7 +352,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Timely and Effective Care - National](https://data.medicare.gov/api/views/isrn-hqyy/rows.json?accessType=DOWNLOAD)
   * [Hospital General Information](https://data.medicare.gov/api/views/xubh-q36u/rows.json?accessType=DOWNLOAD)
   * [Complications - Hospital](https://data.medicare.gov/api/views/632h-zaca/rows.json?accessType=DOWNLOAD)
-  
+
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
