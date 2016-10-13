@@ -194,6 +194,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Events](https://api.github.com/events)
 * [Gists](https://api.github.com/gists)
 * [Meta](https://api.github.com/meta)
+* [Timeline](https://github.com/timeline)
 
 ## Government
 * [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
