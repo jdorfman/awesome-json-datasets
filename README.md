@@ -20,7 +20,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
-* [Nobel Prize Api](#nobel-prize)
+* [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
@@ -372,9 +372,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
 ## Nobel Prize
-* [Prize](http://api.nobelprize.org/v1/prize.json?)
-* [Laureate](http://api.nobelprize.org/v1/laureate.json?)
-* [Country](http://api.nobelprize.org/v1/country.json?)
+* [Prize](http://api.nobelprize.org/v1/prize.json)
+* [Laureate](http://api.nobelprize.org/v1/laureate.json)
+* [Country](http://api.nobelprize.org/v1/country.json)
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
