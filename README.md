@@ -17,6 +17,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
+* [Historical Events](#historical-events)
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
@@ -331,6 +332,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
+
+## Historical Events
+* Languages
+  * [English](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en)
+  * [German](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=de)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
