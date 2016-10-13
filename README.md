@@ -137,7 +137,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
 * [DATA.GOV](https://www.data.gov/local/)
   * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
-  
+
 ## Currency
 
 * [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
