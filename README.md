@@ -178,18 +178,18 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Football
 * English Premier League
-  * 2015 [Clubs](https://github.com/openfootball/football.json/blob/master/2015-17/en.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2015-17/en.1.json)
-  * 2016 [Clubs](https://github.com/openfootball/football.json/blob/master/2016-17/en.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2016-17/en.1.json)
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.json)
 * Deutsche Bundesliga
-  * 2015 [Clubs](https://github.com/openfootball/football.json/blob/master/2015-17/de.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2015-17/de.1.json)
-  * 2016 [Clubs](https://github.com/openfootball/football.json/blob/master/2016-17/de.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2016-17/de.1.json)
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.json)
 * Spanish Primera División ("La Liga")
-  * 2015 [Clubs](https://github.com/openfootball/football.json/blob/master/2015-17/es.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2015-17/es.1.json)
-  * 2016 [Clubs](https://github.com/openfootball/football.json/blob/master/2016-17/es.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2016-17/es.1.json)
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.json)
 * Italian Serie A
-  * 2015 [Clubs](https://github.com/openfootball/football.json/blob/master/2015-17/it.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2015-17/it.1.json)
-  * 2016 [Clubs](https://github.com/openfootball/football.json/blob/master/2016-17/it.1.clubs.json) [Matches](https://github.com/openfootball/football.json/blob/master/2016-17/it.1.json)
-  
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.json)
+
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
