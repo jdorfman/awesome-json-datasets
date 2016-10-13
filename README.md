@@ -134,6 +134,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Lancashire Constabulary](https://data.police.uk/api/forces/lancashire)
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
+* [COURTTRIBUNALFINDER.SERVICE.GOV.UK](https://courttribunalfinder.service.gov.uk/api.html)
+  * [Locations of courts in England and Wales](https://courttribunalfinder.service.gov.uk/courts.json)
+  * [Court Postcode Search](https://courttribunalfinder.service.gov.uk/search/results.json?postcode=SW1H9AJ)
+  * [Court Name Search](https://courttribunalfinder.service.gov.uk/search/results.json?q=old+bailey)
+
+> Pro Tip: replace the field-value for a postcode or court e.g. `postcode=W1A0AX` or `q=doncaster`.
 
 ## Currency
 
