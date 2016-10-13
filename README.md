@@ -471,6 +471,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
+> Pro Tip: Link to country list [Here](http://api.worldbank.org/countries?per_page=304&format=json)
+
 ## Reddit
 * [/r/all](http://www.reddit.com/r/all.json)
 * [/r/AskReddit](https://www.reddit.com/r/AskReddit.json)
