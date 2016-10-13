@@ -80,6 +80,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Porsche](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Porsche)
   * [Subaru](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Subaru)
   * [Toyota](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Toyota)
+  * [Fiat](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Fiat)
+  * [Audi](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Audi)
+  * [Bugatti](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Bugatti)
+  * [Lamborghini](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Lamborghini)
+  * [Tesla](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Tesla)
 
 > Pro Tip: replace the field-value for a model not listed e.g. `make=CarCompany`.
 
@@ -180,7 +185,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
-* [Magic: The Gathering](magic.wizards.com)
+* [Magic: The Gathering](http://magic.wizards.com)
   * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
   * [MTG LEB Set](http://mtgjson.com/json/LEB.json)
