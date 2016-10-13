@@ -14,6 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Emergency](#emergency)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
@@ -174,6 +175,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+
+## Emergency
+### API
+* [Emergency Numbers API](emergencynumberapi.com/api/)
+* [United Nations Humanitarian Response API](https://www.humanitarianresponse.info/api/)
+
+### Disasters
+* [Canadian Disaster Database](http://open.canada.ca/data/api/action/package_show?id=1c3d15f9-9cfa-4010-8462-0d67e493d9b9)
+* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+* [Wildfires](http://services1.arcgis.com/CHRAD8xHGZXuIQsJ/ArcGIS/rest/services/Hotpin/FeatureServer/0?f=pjson)
 
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
@@ -371,9 +382,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
-
-## Natural Disasters
-* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
