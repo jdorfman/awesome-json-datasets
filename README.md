@@ -28,9 +28,11 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Weather](#weather)
 * [Open Source Licenses](#open-source-licenses)
 * [Other](#other)
+* [University](#university)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
+
 
 ## Bitcoin
 * [Latest Block](https://blockchain.info/latestblock)
@@ -534,6 +536,26 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 * [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+
+## University
+
+### University of Granada open data store
+
+All data taken from the Open Data Portal for the University of
+Granada, in Spain: http://opendata.ugr.es
+
+* [All datasets](http://opendata.ugr.es/api/3/action/package_list)
+* [All groups](http://opendata.ugr.es/api/3/action/group_list)
+* [All tags](http://opendata.ugr.es/api/3/action/tag_list)
+* Some cool datasets:
+  [expenses 2016](http://opendata.ugr.es/api/3/action/package_show?id=desglose-de-gastos-2016),
+  [budget 2016](http://opendata.ugr.es/api/3/action/package_show?id=presupuesto-2016),
+* Some interesting tags:
+  [`ugrinvestiga`, research metrics at the UGR](http://opendata.ugr.es/api/3/action/tag_show?id=ugrinvestiga),
+  [datasets updated this year](http://opendata.ugr.es/api/3/action/tag_show?id=2016)
+* Some interesting packages:
+  [those related to students](http://opendata.ugr.es/api/3/action/package_search?q=alumnos),
+  or [faculty](http://opendata.ugr.es/api/3/action/package_search?q=profesores).
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
