@@ -33,7 +33,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Contributing](#contributing)
 * [License](#license)
 
-
 ## Bitcoin
 * [Latest Block](https://blockchain.info/latestblock)
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
