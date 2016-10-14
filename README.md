@@ -540,8 +540,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ### University of Granada open data store
 
-All data taken from the Open Data Portal for the University of
-Granada, in Spain: http://opendata.ugr.es
+All data taken from the [Open Data Portal for the University of Granada, in Spain](http://opendata.ugr.es)
 
 * [All datasets](http://opendata.ugr.es/api/3/action/package_list)
 * [All groups](http://opendata.ugr.es/api/3/action/group_list)
