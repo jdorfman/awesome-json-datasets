@@ -231,8 +231,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
   * [Social Media Usage](https://data.cityofnewyork.us/api/views/5b3a-rs48/rows.json?accessType=DOWNLOAD)
 * CDC.gov
- + * [Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
- + * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
+ +  [Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
+ +  [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
 
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
