@@ -206,14 +206,15 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [MTG LEB Set + Extras](http://mtgjson.com/json/LEB-x.json)
   * [MTG ARN Set](http://mtgjson.com/json/ARN.json)
   * [MTG ARN Set + Extras](http://mtgjson.com/json/ARN-x.json)
+  
+> Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
+  
 * [Hearthstone](https://hearthstonejson.com/)
   * [All cards, in every language](https://api.hearthstonejson.com/v1/latest/all/cards.json)
   * [All cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
   * [Collectible cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
   * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
-
-> Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
 * [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
