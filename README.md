@@ -14,6 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Development](#development)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
@@ -177,6 +178,15 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+
+## Development
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+  * [Posts](https://jsonplaceholder.typicode.com/posts)
+  * [Comments](https://jsonplaceholder.typicode.com/comments)
+  * [Albums](https://jsonplaceholder.typicode.com/albums)
+  * [Photos](https://jsonplaceholder.typicode.com/photos)
+  * [ToDos](https://jsonplaceholder.typicode.com/todos)
+  * [Users](https://jsonplaceholder.typicode.com/users)
 
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
@@ -347,7 +357,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
-
+* UK Environmental Agency
+  * [Flood Warning](http://environment.data.gov.uk/flood-monitoring/id/floods)
+  * [Flood Areas](http://environment.data.gov.uk/flood-monitoring/id/floodAreas)
+  * [Stations](http://environment.data.gov.uk/flood-monitoring/id/stations)
+  * [Measures](http://environment.data.gov.uk/flood-monitoring/id/measures)
+  * [Readings](http://environment.data.gov.uk/flood-monitoring/data/readings)
+  * [3 day risk forecast](http://environment.data.gov.uk/flood-monitoring/id/3dayforecast)
+  
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
