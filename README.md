@@ -579,6 +579,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [Public APIs](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 * [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
