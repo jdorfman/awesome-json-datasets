@@ -569,7 +569,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [The Flash (The CW)](http://api.tvmaze.com/singlesearch/shows?q=flash&embed=episodes)
 * [House of Cards (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes)
 
-
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
