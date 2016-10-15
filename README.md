@@ -233,7 +233,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * CDC.gov
   * [Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
-
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
