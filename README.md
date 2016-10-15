@@ -470,6 +470,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
   * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
   * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
+    * [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=json)
   * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
   * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
   * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
