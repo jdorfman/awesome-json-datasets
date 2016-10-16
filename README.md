@@ -217,6 +217,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 * [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
+* Pokemon
+  * [PokemonGo Pokedex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
+  * [PokeApi](https://pokeapi.co/) Lots of great stuff here read the [docs](https://pokeapi.co/docsv2/) below are som examples
+    * [Bulbasaur](http://pokeapi.co/api/v2/pokemon/1/)
+    * [Flying Types](http://pokeapi.co/api/v2/type/3/)
+    * [Ability: Battle Armor](http://pokeapi.co/api/v2/ability/4/)
+
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
 * [Events](https://api.github.com/events)
