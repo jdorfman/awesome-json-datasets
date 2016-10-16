@@ -288,6 +288,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [NASA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*NASA*)
     * [FEMA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FEMA*)
     * [TSA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*TSA*)
+  * Department of Agriculture
+    * [USDA Branded Food Products Database](https://ndb.nal.usda.gov/ndb/search/list)
+
 * Department of Justice
   * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
   * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
