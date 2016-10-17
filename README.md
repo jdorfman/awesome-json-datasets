@@ -372,6 +372,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: You can change `begin_date` and `end_date` in URL to get events in a specific interval. More options [here](http://www.vizgr.org/historical-events/).
 
+## ZIP/PIN Codes
+* [US ZIP Code 61201](http://api.zippopotam.us/us/61201)
+* [India PIN Code 411060](https://pincode.saratchandra.in/api/pincode/411060)
+* [India PIN/ZIP Code E46AA](http://uk-postcodes.com/postcode/E46AA.json)
+
+> Pro Tip: you can search PIN/ZIP code details by just appending code in the end
+
 ## HTTP
 * [IP](http://httpbin.org/ip)
 * [user-agent](http://httpbin.org/user-agent)
