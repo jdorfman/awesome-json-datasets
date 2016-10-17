@@ -14,12 +14,15 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Football](#football)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
+* [Historical Events](#historical-events)
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
+* [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
 * [Reddit](#reddit)
@@ -135,6 +138,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [Lancashire Constabulary](https://data.police.uk/api/forces/lancashire)
     * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
     * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
+* [DATA.GOV](https://www.data.gov/local/)
+  * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
 
 ## Currency
 
@@ -175,9 +180,25 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
 
+## Football
+* English Premier League
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.json)
+* Deutsche Bundesliga
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.json)
+* Spanish Primera División ("La Liga")
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.json)
+* Italian Serie A
+  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.json)
+  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.json)
+
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Pokémon](https://pokeapi.co/docsv2/)
+  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
 * [Magic: The Gathering](magic.wizards.com)
   * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
@@ -185,9 +206,16 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [MTG LEB Set + Extras](http://mtgjson.com/json/LEB-x.json)
   * [MTG ARN Set](http://mtgjson.com/json/ARN.json)
   * [MTG ARN Set + Extras](http://mtgjson.com/json/ARN-x.json)
+* [Hearthstone](https://hearthstonejson.com/)
+  * [All cards, in every language](https://api.hearthstonejson.com/v1/latest/all/cards.json)
+  * [All cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
+  * [Collectible cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
+  * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
 
 > Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
+
+* [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
@@ -206,6 +234,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [FAQs on Exporting](http://developer.trade.gov/api/ita-faqs.json)
   * [ITA Offices & Centers](http://developer.trade.gov/api/ita-office-locations.json)
   * [Trade News & Articles](http://developer.trade.gov/api/ita-articles.json)
+  * [List of dpw maintained street trees](https://data.sfgov.org/api/views/tkzw-k3nq/rows.json?accessType=DOWNLOAD)
   * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
@@ -224,6 +253,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
   * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
   * [Social Media Usage](https://data.cityofnewyork.us/api/views/5b3a-rs48/rows.json?accessType=DOWNLOAD)
+* United States Congress
+  * [Current US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
+  * [Current US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
+  * [Bills Introduced in the 114th Congress (2015-2017)](https://www.govtrack.us/api/v2/bill?congress=114&limit=1000)
+
+> Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
+
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -281,6 +317,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Road Restrictions](http://www1.toronto.ca/transportation/roadrestrictions/RoadRestrictions.json)
 * [Toronto Public Library](http://opendata.tplcs.ca/)
   * [Top Website Searches from 2010 to 2014](http://opendata.tplcs.ca/data/TPL_top_website_searches_2010-2014.json)
+* [City of Vancouver](http://vancouver.ca/your-government/open-data-catalogue.aspx)
+  * [Electric Vehicle Charging Stations](ftp://webftp.vancouver.ca/OpenData/json/electric_vehicle_charging_stations.json)
+  * [Weekend Playfield Status](ftp://webftp.vancouver.ca/opendata/json/weekendplayfieldstatus.json)
 * [California](http://boundaries.latimes.com/sets/)
   * [U.S. Congressional Districts of California, 2011](http://boundaries.latimes.com/1.0/boundary-set/us-congressional-districts-2011/)
   * [State Senate Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-senate-districts-2011.json)
@@ -320,17 +359,30 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
   * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Gross Domestic Product at Current Prices](https://www.quandl.com/api/v1/datasets/MOSPI/GDP.json)
-* [Australia](Data.gov.au)
+* [Australia](http://data.gov.au/)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
   * [Boat Ramps in the Gold Coast Area](http://data.gov.au/geoserver/boat-ramps/wfs?request=GetFeature&typeName=af1b8d1c_a186_4e72_8e9e_549a8065e970&outputFormat=json)
   * [Indigenous Land Use Agreements (Registered or in Notification)](http://data.gov.au/geoserver/indigenous-land-use-agreements-registered-or-in-notification/wfs?request=GetFeature&typeName=ckan_9e837144_8070_4983_8bf0_15e7ceb56ed7&outputFormat=json)
   * [Noosa Wedding Locations](http://data.gov.au/geoserver/noosa-wedding-locations/wfs?request=GetFeature&typeName=17a54ec7_914b_4c60_b194_b0d190803001&outputFormat=json)
   * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
+  * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
 * Amsterdam
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
+* [Michigan](https://data.michigan.gov/browse)
+  * [Car Accidents](https://data.michigan.gov/api/views/p54v-8v6s/rows.json?accessType=DOWNLOAD)
+  * [Vehicle Type In Accidents](https://data.michigan.gov/api/views/bcct-6rxt/rows.json?accessType=DOWNLOAD)
+  * [Schools](https://data.michigan.gov/api/views/7rph-su5f/rows.json?accessType=DOWNLOAD)
+  * [Fish](https://data.michigan.gov/api/views/he9h-7fpa/rows.json?accessType=DOWNLOAD)
+  * [State Facts](https://data.michigan.gov/api/views/pxdv-rgvb/rows.json?accessType=DOWNLOAD)
+  * [Baby Names](https://data.michigan.gov/api/views/nndy-b6rm/rows.json?accessType=DOWNLOAD)
+
+## Historical Events
+* Languages
+  * [English](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en)
+  * [German](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=de)
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
@@ -374,6 +426,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Natural Disasters
 * [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+
+## Nobel Prize
+* [Prize](http://api.nobelprize.org/v1/prize.json)
+* [Laureate](http://api.nobelprize.org/v1/laureate.json)
+* [Country](http://api.nobelprize.org/v1/country.json)
 
 ## Node.js API
 * [console](https://nodejs.org/api/console.json)
@@ -435,6 +492,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
   * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
   * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
+    * [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=json)
   * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
   * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
   * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
@@ -482,6 +540,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [/r/IAmA](https://www.reddit.com/r/IAmA.json)
 * [/r/videos](https://www.reddit.com/r/videos.json)
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
+* [/r/linux](https://www.reddit.com/r/linux.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
 
@@ -508,6 +567,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Dexter (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes)
 * [Shameless (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=shameless&embed=episodes)
 * [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
+* [Prison Break (FOX)](http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes)
+* [Gravity Falls (Disney XD)](http://api.tvmaze.com/singlesearch/shows?q=gravity-falls&embed=episodes)
+* [Modern Family (ABC)](http://api.tvmaze.com/singlesearch/shows?q=modern-family&embed=episodes)
 * [Ray Donovan (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Ray-Donovan&embed=episodes)
 * [Better Call Saul (AMC)](http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
 * [Homeland (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
@@ -520,6 +582,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Friends (NBC)](http://api.tvmaze.com/singlesearch/shows?q=friends&embed=episodes)
 * [How I Met Your Mother (CBS)](http://api.tvmaze.com/singlesearch/shows?q=how-i-met-your-mother&embed=episodes)
 * [Grey's Anatomy (ABC)](http://api.tvmaze.com/singlesearch/shows?q=greys-anatomy&embed=episodes)
+* [The Flash (The CW)](http://api.tvmaze.com/singlesearch/shows?q=flash&embed=episodes)
+* [Game Of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
@@ -527,6 +591,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
 * [Titanic (1997)](http://www.omdbapi.com/?t=titanic&y=&plot=short&r=json)
 * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
+* [Pink](http://www.omdbapi.com/?t=pink&y=&plot=short&r=json)
+* [M.S. Dhoni: The Untold Story](http://www.omdbapi.com/?t=M.S.+Dhoni%3A+The+Untold+Story&y=2016&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
@@ -550,6 +616,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Cape Town](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Cape%20Town%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Madrid](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Madrid%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Buenos Aires](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Buenos%20Aires%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Lucknow](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22nome%2C%20ak%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
