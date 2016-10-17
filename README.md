@@ -199,6 +199,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
 * [Pokémon](https://pokeapi.co/docsv2/)
   * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
+  * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
+  * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
+* [PokemonGo Pokedex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 * [Magic: The Gathering](magic.wizards.com)
   * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
@@ -216,13 +219,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Protip: [http://mtgjson.com](http://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
 * [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
-
-* Pokemon
-  * [PokemonGo Pokedex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
-  * [PokeApi](https://pokeapi.co/) Lots of great stuff here read the [docs](https://pokeapi.co/docsv2/) below are som examples
-    * [Bulbasaur](http://pokeapi.co/api/v2/pokemon/1/)
-    * [Flying Types](http://pokeapi.co/api/v2/type/3/)
-    * [Ability: Battle Armor](http://pokeapi.co/api/v2/ability/4/)
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
