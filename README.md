@@ -197,11 +197,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Gaming
 * [BattleField 4](http://bf4stats.com/api)
   * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
-* [Pokémon](https://pokeapi.co/docsv2/)
-  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
-  * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
-  * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
-* [PokemonGo Pokedex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
+* Pokémon
+  * [PokéApi](https://pokeapi.co/docsv2/)
+    * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
+    * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
+    * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
+ * [PokémonGo Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 * [Magic: The Gathering](magic.wizards.com)
   * [MTG LEA Set](http://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](http://mtgjson.com/json/LEA-x.json)
