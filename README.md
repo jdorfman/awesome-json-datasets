@@ -569,6 +569,12 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
 * [Pink](http://www.omdbapi.com/?t=pink&y=&plot=short&r=json)
 * [M.S. Dhoni: The Untold Story](http://www.omdbapi.com/?t=M.S.+Dhoni%3A+The+Untold+Story&y=2016&plot=short&r=json)
+* [Rustom](http://www.omdbapi.com/?t=rustom&y=&plot=short&r=json)
+* [3 Idiots](http://www.omdbapi.com/?t=3%20idiots&y=&plot=short&r=json)
+* [Airlift](http://www.omdbapi.com/?t=airlift&y=&plot=short&r=json)
+* [Queen](http://www.omdbapi.com/?t=queen&y=&plot=short&r=json)
+* [Sultan](http://www.omdbapi.com/?t=sultan&y=&plot=short&r=json)
+* [Big Hero 6](http://www.omdbapi.com/?t=big%20hero&y=&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
