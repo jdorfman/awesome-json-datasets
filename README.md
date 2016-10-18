@@ -14,6 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Cars](#cars)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Fitness](#fitness)
 * [Football](#football)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
@@ -179,6 +180,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+
+## Fitness
+* [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
 
 ## Football
 * English Premier League
