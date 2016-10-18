@@ -17,4 +17,4 @@
 * If you look at the [license section](https://github.com/jdorfman/awesome-json-datasets#license) you will see "MaxCDN has waived all...", I left that in as a reminder of how much I will always love MaxCDN
 * While the experiment failed, it inspired us to [start advertising](https://www.youtube.com/watch?v=6jiIeTwDKhs&feature=youtu.be&t=12m6s) in README's
 
-Inspired by @machikoyasuda
+Inspired by [@machikoyasuda](https://github.com/machikoyasuda)
