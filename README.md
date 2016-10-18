@@ -528,6 +528,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Traffic Violations
 * [JSON](https://data.montgomerycountymd.gov/api/views/4mse-ku6q/rows.json?accessType=DOWNLOAD)
+## Youth Tobacco Survey (YTS) Data
+* [JSON](https://chronicdata.cdc.gov/api/views/4juz-x2tp/rows.json?accessType=DOWNLOAD)
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
 ## License
