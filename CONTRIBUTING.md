@@ -4,6 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Make titles descriptive i.e. not `Updated README`.
 - Use the following format: `[Cool JSON Data Set](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
