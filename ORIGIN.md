@@ -15,6 +15,6 @@
 * Once I had some stars, I [submitted it](https://github.com/sindresorhus/awesome/pull/316) to Awesome
 * Got more stars, but the referral traffic (to MaxCDN) was minimal
 * If you look at the [license section](https://github.com/jdorfman/awesome-json-datasets#license) you will see "MaxCDN has waived all...", I left that in as a reminder of how much I will always love MaxCDN
-* While the experiment failed, it inspired us to [start advertising](https://www.youtube.com/watch?v=6jiIeTwDKhs&feature=youtu.be&t=12m6s) in README's
+* While _this list_ didn't bring in any significant traffic, it inspired us to [start advertising](https://www.youtube.com/watch?v=6jiIeTwDKhs&feature=youtu.be&t=12m6s) in README's
 
 Inspired by [@machikoyasuda](https://github.com/machikoyasuda)
