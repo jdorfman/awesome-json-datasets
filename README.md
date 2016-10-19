@@ -573,6 +573,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Grey's Anatomy (ABC)](http://api.tvmaze.com/singlesearch/shows?q=greys-anatomy&embed=episodes)
 * [The Flash (The CW)](http://api.tvmaze.com/singlesearch/shows?q=flash&embed=episodes)
 * [Game Of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
+* [Arrow (The CW)](http://api.tvmaze.com/singlesearch/shows?q=arrow&embed=episodes)
+* [Legends of Tommorow (The CW)](http://api.tvmaze.com/singlesearch/shows?q=legends-of-tomorrow&embed=episodes)
+* [The Big Bang Theory (CBS)](http://api.tvmaze.com/singlesearch/shows?q=big-bang-theory&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
