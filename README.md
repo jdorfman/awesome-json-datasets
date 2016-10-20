@@ -25,6 +25,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
+* [GDP (current US$)](#gdp-current-us)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
@@ -520,6 +521,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 `$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
 
 * [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
+
+## GDP (current US$)
+* [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
+* [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
+* [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
+
+> Pro Tip: Link to country list [Here](http://api.worldbank.org/countries?per_page=304&format=json)
 
 ## Reddit
 * [/r/all](http://www.reddit.com/r/all.json)
