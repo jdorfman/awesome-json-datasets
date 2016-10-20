@@ -25,6 +25,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
+* [GDP (current US$)](#gdp-current-us$)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
