@@ -32,3 +32,4 @@
 * [yahooapis.com](https://yahooapis.com)
 * [wikimedia.org](https://dumps.wikimedia.org/)
 * [ip-api.com](http://ip-api.com/)
+* [ddragon.leageoflegends.com](http://ddragon.leagueoflegends.com/tool)
