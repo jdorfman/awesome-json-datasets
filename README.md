@@ -575,7 +575,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
-* Movie Information
+* [Movie Information](http://www.omdbapi.com/)
   * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
   * [Titanic (1997)](http://www.omdbapi.com/?t=titanic&y=&plot=short&r=json)
   * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
@@ -590,7 +590,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
-* Showtime
+* [Showtime](http://showtimes.everyday.in.th/api/v2/)
   * [Current Movies in Thailand](http://showtimes.everyday.in.th/api/v2/movie/)
   * [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
 
