@@ -26,8 +26,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Movies](#movies)
-* [Weather (live data)](#weather-live-data)
-* [Weather (historical data)](#weather-historical-data)
+* [Weather](#weather)
 * [Open Source Licenses](#open-source-licenses)
 * [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
@@ -523,7 +522,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
-## Weather (live data)
+## Weather
 * [Los Angeles](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Los%20Angeles%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Chicago](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Chicago%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [New York](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22New%20York%2C%20NY%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
@@ -543,12 +542,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Cape Town](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Cape%20Town%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Madrid](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Madrid%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Buenos Aires](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Buenos%20Aires%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
+* [Leipzig (historical data)](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=3&periode=y&format=json)
 
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
-
-## Weather (historical data)
-
-* [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=3&periode=y&format=json)
 
 ## Other
 * [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
