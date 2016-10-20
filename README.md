@@ -640,6 +640,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Zip Code to Province and District in Thailand](https://raw.githubusercontent.com/rathjung/Thai-zip-code-latitude-and-longitude/22f51dd4beb9117b76348527a1848058a690e43a/data.json)
 * [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
 * [Colleges](http://spencerfricke.com/data/college_full_data.json)
+* [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
