@@ -12,6 +12,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 ## Table of Contents (TOC)
 * [Bitcoin](#bitcoin)
 * [Cars](#cars)
+* [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
 * [Football](#football)
@@ -86,6 +87,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Toyota](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Toyota)
 
 > Pro Tip: replace the field-value for a model not listed e.g. `make=CarCompany`.
+
+## Climate
+
+* [Global Temperature Anomaly, 1880-2015 (vs. 1901-2000 Average)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json)
+* [US Annual Average Temperature and Anomaly, 1880-2015 (vs. 1901-2000 Average)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
+* [Contiguous US Annual Precipitation, 1895-2015](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
+* [Palmer Drought Severity Index for the Contiguous US, 1895-2015](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
 
 ## Crime
 
