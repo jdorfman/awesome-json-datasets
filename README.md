@@ -546,6 +546,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: you can append `.json` to any subreddit url.
 
 ## Travel
+* [Global Airfields](https://ckannet-storage.commondatastorage.googleapis.com/2014-12-13T15:15:31.729Z/airfields.json)
+* [Monthly Airline Delays by Airport, 2003-2016](https://think.cs.vt.edu/corgis/json/airlines/airlines.json)
 * FAA Airport Status
   * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [LAX](http://services.faa.gov/airport/status/LAX?format=application/json)
