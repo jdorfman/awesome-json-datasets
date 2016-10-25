@@ -563,6 +563,23 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Heads up: Only works for US airports only, not international.
 
+* Metropolitan and Rural Transit Networks
+  * Arriva Trains Wales (Cardiff, Wales): [Operator service area](https://transit.land/api/v1/operators/o-gcm-arrivatrainswales) / [Routes](https://transit.land/api/v1/routes?operated_by=o-gcm-arrivatrainswales) / [Stops](https://transit.land/api/v1/stops?served_by=o-gcm-arrivatrainswales)
+  * Crossrail (London, England): [Operator service area](https://transit.land/api/v1/operators/o-u10j-crossrail) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u10j-crossrail) / [Stops](https://transit.land/api/v1/stops?served_by=o-u10j-crossrail)
+  * Dopravni podnik hl. m. Prahy, akciova spolecnost (Prague, Czech Republic): [Operator service area](https://transit.land/api/v1/operators/o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost) / [Stops](https://transit.land/api/v1/stops?served_by=o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost)
+  * Empresa Municipal de Transportes (Madrid, Spain): [Operator service area](https://transit.land/api/v1/operators/o-ezjm-empresamunicipaldetransportes) / [Routes](https://transit.land/api/v1/routes?operated_by=o-ezjm-empresamunicipaldetransportes) / [Stops](https://transit.land/api/v1/stops?served_by=o-ezjm-empresamunicipaldetransportes)
+  * Helsingin seudun liikenne (Helsinki, Finland): [Operator service area](https://transit.land/api/v1/operators/o-ud9-helsinginseudunliikenne)
+  * Los Angeles County Metropolitan Transportation Authority (Los Angeles, United States): [Operator service area](https://transit.land/api/v1/operators/o-9q5-metro~losangeles) / [Routes](https://transit.land/api/v1/routes?operated_by=o-9q5-metro~losangeles) / [Stops](https://transit.land/api/v1/stops?served_by=o-9q5-metro~losangeles)
+  * Los Angeles Department of Transportation (Los Angeles, United States): [Operator service area](https://transit.land/api/v1/operators/o-9q5-ladot)
+  * MTA New York City Transit (New York, United States): [Operator service area](https://transit.land/api/v1/operators/o-dr5r-nyct) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dr5r-nyct) / [Stops](https://transit.land/api/v1/stops?served_by=o-dr5r-nyct)
+  * New York City Department of Transportation (New York, United States): [Operator service area](https://transit.land/api/v1/operators/o-dr5r7-nycdot) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dr5r7-nycdot) / [Stops](https://transit.land/api/v1/stops?served_by=o-dr5r7-nycdot)
+  * Régie Autonome des Transports Parisiens (Paris, France): [Operator service area](https://transit.land/api/v1/operators/o-u09-ratp100) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u09-ratp100) / [Stops](https://transit.land/api/v1/stops?served_by=o-u09-ratp100)
+  * Ruter (Oslo, Norway): [Operator service area](https://transit.land/api/v1/operators/o-u4x-ruter) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u4x-ruter) / [Stops](https://transit.land/api/v1/stops?served_by=o-u4x-ruter)
+  * Thameslink (London, England): [Operator service area](https://transit.land/api/v1/operators/o-gcp-thameslink) / [Routes](https://transit.land/api/v1/routes?operated_by=o-gcp-thameslink) / [Stops](https://transit.land/api/v1/stops?served_by=o-gcp-thameslink)
+  * Toronto Transit Comission (Toronto, Canada): [Operator service area](https://transit.land/api/v1/operators/o-dpz8-ttc) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dpz8-ttc) / [Stops](https://transit.land/api/v1/stops?served_by=o-dpz8-ttc)
+
+> Pro Tip: many more transit networks available [here](https://transit.land/feed-registry/)
+
 * London Underground Tube Train Stations
   * [All stations](http://marquisdegeek.com/api/tube/)
 
