@@ -647,6 +647,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Sultan](http://www.omdbapi.com/?t=sultan&y=&plot=short&r=json)
   * [Big Hero 6](http://www.omdbapi.com/?t=big%20hero&y=&plot=short&r=json)
   * [Sunspring](http://www.omdbapi.com/?t=sunspring&y=&plot=short&r=json)
+  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
+  * [A Wednesday](http://www.omdbapi.com/?t=a-wednesday&y=&plot=short&r=json)
+  * [Shivaay](http://www.omdbapi.com/?t=shivaay&y=&plot=short&r=json)
+  * [Lagaan](http://www.omdbapi.com/?t=lagaan&y=&plot=short&r=json)
+  * [Swades](http://www.omdbapi.com/?t=swades&y=&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
