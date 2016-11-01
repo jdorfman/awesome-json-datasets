@@ -627,6 +627,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Pitchers (TVF)](http://api.tvmaze.com/singlesearch/shows?q=Pitchers&embed=episodes)
 * [Narcos (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=narcos&embed=episodes)
 * [Black Mirror (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=black-mirror&embed=episodes)
+* [Stranger Things (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
