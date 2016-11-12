@@ -684,6 +684,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Shivaay](http://www.omdbapi.com/?t=shivaay&y=&plot=short&r=json)
   * [Lagaan](http://www.omdbapi.com/?t=lagaan&y=&plot=short&r=json)
   * [Swades](http://www.omdbapi.com/?t=swades&y=&plot=short&r=json)
+  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
