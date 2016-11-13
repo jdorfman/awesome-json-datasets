@@ -23,6 +23,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
+* [Natural Disasters](#natural-disasters)
 * [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
@@ -463,7 +464,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
 ## Natural Disasters
+* [Canadian Disaster Database](http://open.canada.ca/data/api/action/package_show?id=1c3d15f9-9cfa-4010-8462-0d67e493d9b9)
 * [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+* [Wildfires](http://services1.arcgis.com/CHRAD8xHGZXuIQsJ/ArcGIS/rest/services/Hotpin/FeatureServer/0?f=pjson)
 
 ## Nobel Prize
 * [Prize](http://api.nobelprize.org/v1/prize.json)
