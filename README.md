@@ -8,8 +8,6 @@
 <a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" width="150px"></a>
 </h3>
 
-**Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
-
 ## Contents
 * [Bitcoin](#bitcoin)
 * [Cars](#cars)
