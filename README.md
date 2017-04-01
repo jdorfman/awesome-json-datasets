@@ -2,7 +2,7 @@
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
-A curated list of awesome JSON datasets that don't require authentication.
+> A curated list of awesome JSON datasets that don't require authentication.
 
 <h3 align="center">
 <a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" width="150px"></a>
