@@ -8,6 +8,8 @@
 <a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" width="300px"></a>
 </h3>
 
+> Are you an Open Source sustainer? [Join us](https://sustainoss.org/).
+
 ## Contents
 * [Bitcoin](#bitcoin)
 * [Cars](#cars)
