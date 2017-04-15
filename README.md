@@ -674,6 +674,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
+## Wikipedia
+* [JSON](https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro=&explaintext=&titles=json)
+
+> Pro Tip: replace the "titles" value with your search keyword on wikipedia and get the full result in Json format.
+
 ## Movies
 * [Movie Information](http://www.omdbapi.com/)
   * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
