@@ -24,6 +24,7 @@
 * [HTTP](#http)
 * [Media](#media)
 * [NASA](#nasa)
+* [Natural Disasters](#natural-disaster
 * [Nobel Prize](#nobel-prize)
 * [Node.js API](#nodejs-api)
 * [Population](#population)
@@ -464,7 +465,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
 ## Natural Disasters
+* [Canadian Disaster Database](http://open.canada.ca/data/api/action/package_show?id=1c3d15f9-9cfa-4010-8462-0d67e493d9b9)
 * [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+* [Wildfires](http://services1.arcgis.com/CHRAD8xHGZXuIQsJ/ArcGIS/rest/services/Hotpin/FeatureServer/0?f=pjson)
+
+## Nobel Prize
+* [Prize](http://api.nobelprize.org/v1/prize.json)
+* [Laureate](http://api.nobelprize.org/v1/laureate.json)
+* [Country](http://api.nobelprize.org/v1/country.json)
 
 ## Nobel Prize
 * [Prize](http://api.nobelprize.org/v1/prize.json)
@@ -737,6 +745,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
 * [Colleges](http://spencerfricke.com/data/college_full_data.json)
 * [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
+* [Emergency Numbers API](emergencynumberapi.com/api/)
+* [United Nations Humanitarian Response API](https://www.humanitarianresponse.info/api/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
