@@ -738,6 +738,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Colleges](http://spencerfricke.com/data/college_full_data.json)
 * [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
 
+## Motor Vehicle Occupant Death Rates [2012-2014](ALL STATES)
+* [JSON](https://data.cdc.gov/api/views/rqg5-mkef/rows.json?accessType=DOWNLOAD)
+
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [Help Wanted](https://github.com/jdorfman/awesome-help-wanted) *(Open Source projects looking for Help)*
