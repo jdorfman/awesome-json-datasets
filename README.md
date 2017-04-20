@@ -545,6 +545,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
+* City of Copenhagen 1890 - 1924 (Politietsregisterblade.dk)
+  * [Persons](http://www.politietsregisterblade.dk/api/1?type=person)
+  * [Addresses](http://www.politietsregisterblade.dk/api/1?type=address)
+  * [Roads](http://www.politietsregisterblade.dk/api/1?type=road&name=gade)
+
 * United States Population Table (Ages 0-100)
     * [1950](http://api.population.io/1.0/population/1950/United%20States/)
     * [1960](http://api.population.io/1.0/population/1960/United%20States/)
