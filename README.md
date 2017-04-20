@@ -29,6 +29,7 @@
 * [Population](#population)
 * [GDP (current US$)](#gdp-current-us)
 * [Reddit](#reddit)
+* [Sports](#sports)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Movies](#movies)
@@ -586,6 +587,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [/r/linux](https://www.reddit.com/r/linux.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
+
+## Sports
+* Soccer
+  * [Upcoming Fixtures](http://api.football-data.org/v1/fixtures)
 
 ## Travel
 * [Global Airfields](https://ckannet-storage.commondatastorage.googleapis.com/2014-12-13T15:15:31.729Z/airfields.json)
