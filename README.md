@@ -459,25 +459,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
-* [Movie Information](http://www.omdbapi.com/)
+* [The Open Movie Databse](http://www.omdbapi.com/)
   * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
-  * [Titanic (1997)](http://www.omdbapi.com/?t=titanic&y=&plot=short&r=json)
   * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
-  * [Pink](http://www.omdbapi.com/?t=pink&y=&plot=short&r=json)
-  * [M.S. Dhoni: The Untold Story](http://www.omdbapi.com/?t=M.S.+Dhoni%3A+The+Untold+Story&y=2016&plot=short&r=json)
-  * [Rustom](http://www.omdbapi.com/?t=rustom&y=&plot=short&r=json)
-  * [3 Idiots](http://www.omdbapi.com/?t=3%20idiots&y=&plot=short&r=json)
-  * [Airlift](http://www.omdbapi.com/?t=airlift&y=&plot=short&r=json)
-  * [Queen](http://www.omdbapi.com/?t=queen&y=&plot=short&r=json)
-  * [Sultan](http://www.omdbapi.com/?t=sultan&y=&plot=short&r=json)
-  * [Big Hero 6](http://www.omdbapi.com/?t=big%20hero&y=&plot=short&r=json)
-  * [Sunspring](http://www.omdbapi.com/?t=sunspring&y=&plot=short&r=json)
-  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
-  * [A Wednesday](http://www.omdbapi.com/?t=a-wednesday&y=&plot=short&r=json)
-  * [Shivaay](http://www.omdbapi.com/?t=shivaay&y=&plot=short&r=json)
-  * [Lagaan](http://www.omdbapi.com/?t=lagaan&y=&plot=short&r=json)
-  * [Swades](http://www.omdbapi.com/?t=swades&y=&plot=short&r=json)
-  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
+  * [Casino](http://www.omdbapi.com/?t=casino&y=&plot=short&r=json)
+  * [Deadpool](http://www.omdbapi.com/?t=deadpool&y=&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
