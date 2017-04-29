@@ -99,3 +99,14 @@
 * [Supergirl (CW)](http://api.tvmaze.com/singlesearch/shows?q=supergirl&embed=episodes)
 * [Grey's Anatomy (ABC)](http://api.tvmaze.com/singlesearch/shows?q=greys-anatomy&embed=episodes)
 * [Futurama (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=Futurama&embed=episodes)
+
+## Other
+* [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
+* [Industries](https://www.sajari.com/free-data/industries.json)
+* [Hackerspaces](http://spaceapi.net/directory.json) *implementing the [Space API](http://spaceapi.net/)*
+* [jService - 156,800 Trivia Questions](http://jservice.io/api/clues)
+* [IP Geolocation](http://ip-api.com/json/8.8.8.8)
+* [Zip Code to Province and District in Thailand](https://raw.githubusercontent.com/rathjung/Thai-zip-code-latitude-and-longitude/22f51dd4beb9117b76348527a1848058a690e43a/data.json)
+* [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
+* [Colleges](http://spencerfricke.com/data/college_full_data.json)
+* [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
