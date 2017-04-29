@@ -194,9 +194,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
-* [DATA.RALEIGHNC.GOV](https://data.raleighnc.gov/)
-  * [ABC Liquor License](https://data.raleighnc.gov/api/views/4253-v43q/rows.json?accessType=DOWNLOAD)
-  * [Public Meetings Calendar](https://data.raleighnc.gov/api/views/snpm-8ugp/rows.json?accessType=DOWNLOAD)
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -245,47 +242,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
-* [City of Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
-  * [Bicycle Stations (Bike Share Toronto)](https://feeds.bikesharetoronto.com/stations/stations.json)
-  * [BodySafe](http://app.toronto.ca/opendata/bodysafe/full_list.json?v=1.00&row_start=1&row_count=1000000)
-  * [Doors Open 2016](http://wx.toronto.ca/inter/culture/doorsopen.nsf/DoorsOpenBuildingJSON.xsp)
-  * [Traffic Cameras](http://opendata.toronto.ca/transportation/tmc/rescucameraimages/Data/tmcearthcameras.json)
-  * [Heat Alerts and Extreme Heat Alerts](http://app.toronto.ca/opendata/heat_alerts/heat_alerts_list.json)
-  * [Road Restrictions](http://www1.toronto.ca/transportation/roadrestrictions/RoadRestrictions.json)
-* [Toronto Public Library](http://opendata.tplcs.ca/)
-  * [Top Website Searches from 2010 to 2014](http://opendata.tplcs.ca/data/TPL_top_website_searches_2010-2014.json)
-* [City of Vancouver](http://vancouver.ca/your-government/open-data-catalogue.aspx)
-  * [Electric Vehicle Charging Stations](http://bit.ly/2edrW46)
-  * [Drinking Fountains](http://bit.ly/2dKvJVM)
-  * [Weekend Playfield Status](http://bit.ly/2eEA4ty)
-  * [Lost Animals](http://bit.ly/2fhH2VA)
-* [California](http://boundaries.latimes.com/sets/)
-  * [U.S. Congressional Districts of California, 2011](http://boundaries.latimes.com/1.0/boundary-set/us-congressional-districts-2011/)
-  * [State Senate Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-senate-districts-2011.json)
-  * [State Assembly Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-assembly-districts-2011.json)
-  * [State Secondary School Districts, 2012](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/secondary-school-districts-2012.json)
-* [County of Los Angeles](https://data.lacounty.gov/)
-  * [Public Library Monthly Circulation](https://data.lacounty.gov/api/views/gf6j-sjun/rows.json?accessType=DOWNLOAD)
-  * [Employee Salaries](https://data.lacounty.gov/api/views/8rdv-6nb6/rows.json?accessType=DOWNLOAD)
-  * [Restaurants and Markets Violations](https://data.lacounty.gov/api/views/b9ey-v6ni/rows.json?accessType=DOWNLOAD)
-  * [City Boundaries](https://data.lacounty.gov/api/views/pwvf-ktdq/rows.json?accessType=DOWNLOAD)
-  * [ZIP Codes](https://data.lacounty.gov/api/views/dwvh-6kjy/rows.json?accessType=DOWNLOAD)
-  * [Assessor Parcels Data](https://data.lacounty.gov/api/views/9trm-uz8i/rows.json?accessType=DOWNLOAD)
-  * [Stolen Vehicles in the Last 12 Months](https://data.lacounty.gov/api/views/dctb-g4t5/rows.json?accessType=DOWNLOAD)
-* [City of Los Angeles](https://data.lacity.org/)
-  * [Building and Safety Permit Information](https://data.lacity.org/api/views/yv23-pmwf/rows.json?accessType=DOWNLOAD)
-  * [Port of Los Angeles Tsunami Evacuation Routes & Signs](https://data.lacity.org/api/views/dhqa-6x54/rows.json?accessType=DOWNLOAD)
-  * [City Budget Expenditures on Transportation](https://controllerdata.lacity.org/api/views/b22v-uk7s/rows.json?accessType=DOWNLOAD)
-  * [Library - Performance Metrics](https://data.lacity.org/api/views/kkby-9hji/rows.json?accessType=DOWNLOAD)
-  * [Immigration Workshops Event Calendar](https://data.lacity.org/api/views/vugs-2e9n/rows.json?accessType=DOWNLOAD)
-  * [DWP Payroll](https://controllerdata.lacity.org/api/views/jmgf-hhk6/rows.json?accessType=DOWNLOAD)
-* [City of Santa Monica](https://data.smgov.net/)
-  * [Trees!](https://data.smgov.net/api/views/ekya-mi9c/rows.json?accessType=DOWNLOAD)
-  * [City Wi-Fi Access Points](https://data.smgov.net/api/views/j485-ymdf/rows.json?accessType=DOWNLOAD)
-  * [Library Patron Totals By Zip Code](https://data.smgov.net/api/views/uiah-8k3s/rows.json?accessType=DOWNLOAD)
-  * [Santa Monica Airport Departures Log](https://data.smgov.net/api/views/jb23-x9zf/rows.json?accessType=DOWNLOAD)
-  * [Maximum Allowable Rent Map](https://data.smgov.net/api/views/fzk2-ujpt/rows.json?accessType=DOWNLOAD)
-  * [Historic Landmarks](https://data.smgov.net/api/views/qe7x-ueps/rows.json?accessType=DOWNLOAD)
 * EU Lobbying Transparency Register
   * [Country](http://api.lobbyfacts.eu/api/1/country)
   * [Entity](http://api.lobbyfacts.eu/api/1/entity)
@@ -321,8 +277,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Fish](https://data.michigan.gov/api/views/he9h-7fpa/rows.json?accessType=DOWNLOAD)
   * [State Facts](https://data.michigan.gov/api/views/pxdv-rgvb/rows.json?accessType=DOWNLOAD)
   * [Baby Names](https://data.michigan.gov/api/views/nndy-b6rm/rows.json?accessType=DOWNLOAD)
-* UK
-  * [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
 
 ## Historical Events
 * Languages
