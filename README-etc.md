@@ -8,6 +8,8 @@
 <a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" width="300px"></a>
 </h3>
 
+* [Node.js API](#nodejs-api)
+
 ## Crime
 
 * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
@@ -187,3 +189,39 @@
 
 * UK
   * [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
+* ## Node.js API
+* [console](https://nodejs.org/api/console.json)
+* [Crypto](https://nodejs.org/api/crypto.json)
+* [Debugger](https://nodejs.org/api/debugger.json)
+* [DNS](https://nodejs.org/api/dns.json)
+* [Domain](https://nodejs.org/api/domain.json)
+* [Events](https://nodejs.org/api/events.json)
+* [File System](https://nodejs.org/api/fs.json)
+* [global](https://nodejs.org/api/globals.json)
+* [HTTP](https://nodejs.org/api/http.json)
+* [HTTPS](https://nodejs.org/api/https.json)
+* [Modules](https://nodejs.org/api/modules.json)
+* [net](https://nodejs.org/api/net.json)
+* [os](https://nodejs.org/api/os.json)
+* [Path](https://nodejs.org/api/path.json)
+* [process](https://nodejs.org/api/process.json)
+* [punycode](https://nodejs.org/api/punycode.json)
+* [Query String](https://nodejs.org/api/querystring.json)
+* [Readline](https://nodejs.org/api/readline.json)
+* [REPL](https://nodejs.org/api/repl.json)
+* [Smalloc](https://nodejs.org/api/smalloc.json)
+* [Stream](https://nodejs.org/api/stream.json)
+* [StringDecoder](https://nodejs.org/api/string_decoder.json)
+* [Timers](https://nodejs.org/api/timers.json)
+* [TLS (SSL)](https://nodejs.org/api/tls.json)
+* [TTY](https://nodejs.org/api/tty.json)
+* [UDP / Datagram Sockets](https://nodejs.org/api/dgram.json)
+* [URL](https://nodejs.org/api/url.json)
+* [util](https://nodejs.org/api/util.json)
+* [Executing JavaScript](https://nodejs.org/api/vm.json)
+* [Zlib](https://nodejs.org/api/zlib.json)
+* [Assert](https://nodejs.org/api/assert.json)
+* [Buffer](https://nodejs.org/api/buffer.json)
+* [Addons](https://nodejs.org/api/addons.json)
+* [Child Process](https://nodejs.org/api/child_process.json)
+* [Cluster](https://nodejs.org/api/cluster.json)
