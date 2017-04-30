@@ -89,9 +89,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Climate
 
 * [Global Temperature Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
-* [US Annual Average Temperature and Anomaly)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
-* [Contiguous US Annual Precipitation](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
-* [Drought Severity Index](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
+* [US Annual Average Temperature and Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
+* [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
+* [Drought Severity Index](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
 
 ## Crime
 
@@ -169,33 +169,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
-* USA.gov
-  * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
-  * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
-    * [FBI](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49278)
-    * [CIA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52590)
-    * [DEA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52688)
-    * [TSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48143)
-    * [NSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49546)
-    * [DOJ](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52686)
-    * [DOD](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49229)
-    * [FEMA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48042)
-    * [DHS](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49022)
-    * [FDA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48058)
-    * [NASA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49476)
-    * [Secret Service](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49660)
 * Department of Justice
-  * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
-  * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
-  * [Speeches](http://www.justice.gov/api/v1/speeches.json?pagesize=2)
+  * [Blog Entries](https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
+  * [Press Releases](https://www.justice.gov/api/v1/press_releases.json?pagesize=2)
+  * [Speeches](https://www.justice.gov/api/v1/speeches.json?pagesize=2)
   * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
 * Department of Labor
-  * [Total Private Average Weekly Hours of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
-  * [Total Private Average Hourly Earnings of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
-* Parliament of Canada
-  * [Bills](http://api.parliamentdata.ca/bills)
-  * [Representatives](http://api.parliamentdata.ca/representatives)
-  * [Committees](http://api.parliamentdata.ca/committees)
+  * [Total Private Average Weekly Hours of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
+  * [Total Private Average Hourly Earnings of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
@@ -218,7 +199,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Agriculture Production](https://data.gov.in/node/135611/datastore/export/json)
   * [Number of Districts/DRDAs/Blocks/Villages](https://data.gov.in/node/100853/datastore/export/json)
-  * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Gross Domestic Product at Current Prices](https://www.quandl.com/api/v1/datasets/MOSPI/GDP.json)
 * [Australia](http://data.gov.au/)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
@@ -288,10 +268,8 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
 * [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(Discovered By NEOWISE)*
 
-> Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
-
 ## Natural Disasters
-* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+* [Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
 ## Nobel Prize
 * [Prize](http://api.nobelprize.org/v1/prize.json)
@@ -356,7 +334,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: Link to country list [Here](http://api.worldbank.org/countries?per_page=304&format=json)
 
 ## Reddit
-* [/r/all](http://www.reddit.com/r/all.json)
+* [/r/all](https://www.reddit.com/r/all.json)
 * [/r/AskReddit](https://www.reddit.com/r/AskReddit.json)
 * [/r/funny](https://www.reddit.com/r/funny.json)
 * [/r/pics](https://www.reddit.com/r/pics.json)
@@ -377,7 +355,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * FAA Airport Status
   * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [LAX](http://services.faa.gov/airport/status/LAX?format=application/json)
-  * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [PHX](http://services.faa.gov/airport/status/PHX?format=application/json)
   * [JFK](http://services.faa.gov/airport/status/JFK?format=application/json)
   * [ATL](http://services.faa.gov/airport/status/ATL?format=application/json)
@@ -411,7 +388,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
-* [The Open Movie Databse](http://www.omdbapi.com/)
+* The Open Movie Databse
   * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
   * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
   * [Casino](http://www.omdbapi.com/?t=casino&y=&plot=short&r=json)
@@ -441,7 +418,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
-* [Help Wanted](https://github.com/jdorfman/awesome-help-wanted) *(Open Source projects looking for Help)*
+* [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
