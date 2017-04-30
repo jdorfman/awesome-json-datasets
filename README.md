@@ -335,7 +335,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: Link to country list [Here](http://api.worldbank.org/countries?per_page=304&format=json)
 
 ## Reddit
-* [/r/all](http://www.reddit.com/r/all.json)
+* [/r/all](https://www.reddit.com/r/all.json)
 * [/r/AskReddit](https://www.reddit.com/r/AskReddit.json)
 * [/r/funny](https://www.reddit.com/r/funny.json)
 * [/r/pics](https://www.reddit.com/r/pics.json)
@@ -420,7 +420,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
-* [Help Wanted](https://github.com/jdorfman/awesome-help-wanted) *(Open Source projects looking for Help)*
+* [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
