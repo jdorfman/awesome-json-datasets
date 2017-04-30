@@ -88,10 +88,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Climate
 
-* [Global Temperature Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *1880-2015 (vs. 1901-2000 Average*
-* [US Annual Average Temperature and Anomaly)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *1880-2015 (vs. 1901-2000 Average*
-* [Contiguous US Annual Precipitation](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *1895-2015*
-* [Drought Severity Index](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *Palmer for the Contiguous US, 1895-2016*
+* [Global Temperature Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
+* [US Annual Average Temperature and Anomaly)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
+* [Contiguous US Annual Precipitation](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
+* [Drought Severity Index](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
 
 ## Crime
 
