@@ -283,16 +283,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
 
 ## NASA
-* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
-* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
-* [Electric Arc Shock Tube (EAST) Test 52 Data](https://data.nasa.gov/api/views/eiwv-s7fe)
-* [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
-* [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
-* [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
 * [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
-* [Near-Earth Asteroids and Comets Discovered By NEOWISE](https://data.nasa.gov/resource/2vr3-k9wn.json)
+* [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(Discovered By NEOWISE)*
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 

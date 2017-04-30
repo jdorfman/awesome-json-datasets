@@ -326,3 +326,11 @@
 * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
 * [United States](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
 * [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
+
+## NASA
+* [Electric Arc Shock Tube (EAST) Test 52 Data](https://data.nasa.gov/api/views/eiwv-s7fe)
+* [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
+* [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
+* [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
+* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
+* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
