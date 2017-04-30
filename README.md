@@ -199,7 +199,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Agriculture Production](https://data.gov.in/node/135611/datastore/export/json)
   * [Number of Districts/DRDAs/Blocks/Villages](https://data.gov.in/node/100853/datastore/export/json)
-  * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Gross Domestic Product at Current Prices](https://www.quandl.com/api/v1/datasets/MOSPI/GDP.json)
 * [Australia](http://data.gov.au/)
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
