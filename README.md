@@ -269,8 +269,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
 * [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(Discovered By NEOWISE)*
 
-> Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
-
 ## Natural Disasters
 * [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
