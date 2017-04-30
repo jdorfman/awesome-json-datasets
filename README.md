@@ -16,7 +16,6 @@
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
-* [Football](#football)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
@@ -25,7 +24,6 @@
 * [Media](#media)
 * [NASA](#nasa)
 * [Nobel Prize](#nobel-prize)
-* [Node.js API](#nodejs-api)
 * [Population](#population)
 * [GDP (current US$)](#gdp-current-us)
 * [Reddit](#reddit)
@@ -34,7 +32,6 @@
 * [Movies](#movies)
 * [Weather](#weather)
 * [Open Source Licenses](#open-source-licenses)
-* [Other](#other)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
@@ -91,10 +88,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## Climate
 
-* [Global Temperature Anomaly, 1880-2015 (vs. 1901-2000 Average)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json)
-* [US Annual Average Temperature and Anomaly, 1880-2015 (vs. 1901-2000 Average)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
-* [Contiguous US Annual Precipitation, 1895-2015](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
-* [Palmer Drought Severity Index for the Contiguous US, 1895-2015](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000)
+* [Global Temperature Anomaly)](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
+* [US Annual Average Temperature and Anomaly)](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
+* [Contiguous US Annual Precipitation](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
+* [Drought Severity Index](http://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
 
 ## Crime
 
@@ -103,51 +100,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Street Crime Dates](https://data.police.uk/api/crimes-street-dates)
   * [Neighbourhoods](https://data.police.uk/api/leicestershire/neighbourhoods)
   * [List of Forces](https://data.police.uk/api/forces)
-    * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
-    * [Bedfordshire Police](https://data.police.uk/api/forces/bedfordshire)
-    * [Cleveland Police](https://data.police.uk/api/forces/cleveland)
-    * [City of London Police](https://data.police.uk/api/forces/city-of-london)
-    * [Dorset Police](https://data.police.uk/api/forces/dorset)
-    * [Devon & Cornwall Police](https://data.police.uk/api/forces/devon-and-cornwall)
-    * [Dyfed-Powys Police](https://data.police.uk/api/forces/dyfed-powys)
-    * [Essex Police](https://data.police.uk/api/forces/essex)
-    * [Greater Manchester Police](https://data.police.uk/api/forces/greater-manchester)
-    * [Gwent Police](https://data.police.uk/api/forces/gwent)
-    * [Humberside Police](https://data.police.uk/api/forces/humberside)
-    * [Kent Police](https://data.police.uk/api/forces/kent)
-    * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
-    * [Lincolnshire Police](https://data.police.uk/api/forces/lincolnshire)
-    * [Merseyside Police](https://data.police.uk/api/forces/merseyside)
-    * [Metropolitan Police Service](https://data.police.uk/api/forces/metropolitan)
-    * [North Wales Police](https://data.police.uk/api/forces/north-wales)
-    * [North Yorkshire Police](https://data.police.uk/api/forces/north-yorkshire)
-    * [Northamptonshire Police](https://data.police.uk/api/forces/northamptonshire)
-    * [Northumbria Police](https://data.police.uk/api/forces/northumbria)
-    * [Nottinghamshire Police](https://data.police.uk/api/forces/nottinghamshire)
-    * [Police Service of Northern Ireland](https://data.police.uk/api/forces/northern-ireland)
-    * [South Wales Police](https://data.police.uk/api/forces/south-wales)
-    * [South Yorkshire Police](https://data.police.uk/api/forces/south-yorkshire)
-    * [Staffordshire Police](https://data.police.uk/api/forces/staffordshire)
-    * [Surrey Police](https://data.police.uk/api/forces/surrey)
-    * [Sussex Police](https://data.police.uk/api/forces/sussex)
-    * [Thames Valley Police](https://data.police.uk/api/forces/thames-valley)
-    * [Warwickshire Police](https://data.police.uk/api/forces/warwickshire)
-    * [West Mercia Police](https://data.police.uk/api/forces/west-mercia)
-    * [West Midlands Police](https://data.police.uk/api/forces/west-midlands)
-    * [West Yorkshire Police](https://data.police.uk/api/forces/west-yorkshire)
-    * [Wiltshire Police](https://data.police.uk/api/forces/wiltshire)
-    * [Avon and Somerset Constabulary](https://data.police.uk/api/forces/avon-and-somerset)
-    * [Cambridgeshire Constabulary](https://data.police.uk/api/forces/cambridgeshire)
-    * [Cheshire Constabulary](https://data.police.uk/api/forces/cheshire)
-    * [Cumbria Constabulary](https://data.police.uk/api/forces/cumbria)
-    * [Derbyshire Constabulary](https://data.police.uk/api/forces/derbyshire)
-    * [Durham Constabulary](https://data.police.uk/api/forces/durham)
-    * [Gloucestershire Constabulary](https://data.police.uk/api/forces/gloucestershire)
-    * [Hampshire Constabulary](https://data.police.uk/api/forces/hampshire)
-    * [Hertfordshire Constabulary](https://data.police.uk/api/forces/hertfordshire)
-    * [Lancashire Constabulary](https://data.police.uk/api/forces/lancashire)
-    * [Norfolk Constabulary](https://data.police.uk/api/forces/norfolk)
-    * [Suffolk Constabulary](https://data.police.uk/api/forces/suffolk)
 * [DATA.GOV](https://www.data.gov/local/)
   * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
 
@@ -156,83 +108,32 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
   * [USD](http://api.fixer.io/latest?base=USD)
   * [AUD](http://api.fixer.io/latest?base=AUD)
-  * [BGN](http://api.fixer.io/latest?base=BGN)
-  * [BRL](http://api.fixer.io/latest?base=BRL)
-  * [CAD](http://api.fixer.io/latest?base=CAD)
-  * [CHF](http://api.fixer.io/latest?base=CHF)
-  * [CNY](http://api.fixer.io/latest?base=CNY)
-  * [CZY](http://api.fixer.io/latest?base=CZK)
-  * [DKK](http://api.fixer.io/latest?base=DKK)
   * [GBP](http://api.fixer.io/latest?base=GBP)
   * [HKD](http://api.fixer.io/latest?base=HKD)
   * [HRK](http://api.fixer.io/latest?base=HRK)
   * [HUF](http://api.fixer.io/latest?base=HUF)
-  * [IDR](http://api.fixer.io/latest?base=IDR)
-  * [ILS](http://api.fixer.io/latest?base=ILS)
-  * [INR](http://api.fixer.io/latest?base=INR)
   * [JPY](http://api.fixer.io/latest?base=JPY)
-  * [KRW](http://api.fixer.io/latest?base=KRW)
-  * [MXN](http://api.fixer.io/latest?base=MXN)
-  * [MYR](http://api.fixer.io/latest?base=MYR)
-  * [NOK](http://api.fixer.io/latest?base=NOK)
-  * [NZD](http://api.fixer.io/latest?base=NZD)
-  * [PHP](http://api.fixer.io/latest?base=PHP)
-  * [PLN](http://api.fixer.io/latest?base=PLN)
-  * [RON](http://api.fixer.io/latest?base=RON)
-  * [RUB](http://api.fixer.io/latest?base=RUB)
-  * [SEK](http://api.fixer.io/latest?base=SEK)
-  * [SGD](http://api.fixer.io/latest?base=SGD)
-  * [THB](http://api.fixer.io/latest?base=THB)
-  * [TRY](http://api.fixer.io/latest?base=TRY)
   * [ZAR](http://api.fixer.io/latest?base=ZAR)
   * [EUR](http://api.fixer.io/latest?base=EUR)
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
 
-## Football
-* English Premier League
-  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json)
-  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/en.1.json)
-* Deutsche Bundesliga
-  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/de.1.json)
-  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/de.1.json)
-* Spanish Primera División ("La Liga")
-  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/es.1.json)
-  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/es.1.json)
-* Italian Serie A
-  * 2015 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/it.1.json)
-  * 2016 [Clubs](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.clubs.json) [Matches](https://raw.githubusercontent.com/openfootball/football.json/master/2016-17/it.1.json)
-
 ## Gaming
-* [BattleField 4](http://bf4stats.com/api)
-  * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
-
-* Pokémon
-  * [PokéApi](https://pokeapi.co/docsv2/)
-    * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
-    * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
-    * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
- * [PokémonGo Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
-
+* [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Pokémon](https://pokeapi.co/docsv2/)
+  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
+  * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
+  * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
+* [Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 * [Magic: The Gathering](http://magic.wizards.com)
-  * [MTG LEA Set](https://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](https://mtgjson.com/json/LEA-x.json)
-  * [MTG LEB Set](https://mtgjson.com/json/LEB.json)
   * [MTG LEB Set + Extras](https://mtgjson.com/json/LEB-x.json)
-  * [MTG ARN Set](https://mtgjson.com/json/ARN.json)
   * [MTG ARN Set + Extras](https://mtgjson.com/json/ARN-x.json)
 
 > Protip: [https://mtgjson.com](https://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
-* [Hearthstone](https://hearthstonejson.com/)
-  * [All cards, in every language](https://api.hearthstonejson.com/v1/latest/all/cards.json)
-  * [All cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
-  * [Collectible cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
-  * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
-
-* [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
@@ -244,15 +145,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
   * [Market Research Library](http://developer.trade.gov/api/market-research-library.json)
   * [Consolidated Screening Lists](http://developer.trade.gov/api/consolidated-screening-lists.json)
-  * [Trade Events](http://developer.trade.gov/api/trade-events.json)
-  * [Trade Events](http://developer.trade.gov/api/trade-events.json)
-  * [Trade Leads](http://developer.trade.gov/api/trade-leads.json)
   * [Tariff Rates](http://developer.trade.gov/api/tariff-rates.json)
-  * [FAQs on Exporting](http://developer.trade.gov/api/ita-faqs.json)
-  * [ITA Offices & Centers](http://developer.trade.gov/api/ita-office-locations.json)
-  * [Trade News & Articles](http://developer.trade.gov/api/ita-articles.json)
-  * [List of dpw maintained street trees](https://data.sfgov.org/api/views/tkzw-k3nq/rows.json?accessType=DOWNLOAD)
-  * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
   * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
@@ -265,7 +158,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
   * [Child Care Programs](https://data.ny.gov/api/views/cb42-qumz/rows.json?accessType=DOWNLOAD)
   * [Mental Health Programs](https://data.ny.gov/api/views/6nvr-tbv8/rows.json?accessType=DOWNLOAD)
-  * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
   * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
   * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
   * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
@@ -277,9 +169,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
-* [DATA.RALEIGHNC.GOV](https://data.raleighnc.gov/)
-  * [ABC Liquor License](https://data.raleighnc.gov/api/views/4253-v43q/rows.json?accessType=DOWNLOAD)
-  * [Public Meetings Calendar](https://data.raleighnc.gov/api/views/snpm-8ugp/rows.json?accessType=DOWNLOAD)
 * USA.gov
   * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
   * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
@@ -295,19 +184,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [FDA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48058)
     * [NASA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49476)
     * [Secret Service](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49660)
-  * Social Media Accounts
-    * [USDA](http://registry.usa.gov/accounts.json?agency_id=usda)
-    * [FBI](http://registry.usa.gov/accounts.json?agency_id=fbi)
-    * [CIA](http://registry.usa.gov/accounts.json?agency_id=cia)
-    * [NASA](http://registry.usa.gov/accounts.json?agency_id=nasa)
-    * [FEMA](http://registry.usa.gov/accounts.json?agency_id=fema)
-    * [DHS](http://registry.usa.gov/accounts.json?agency_id=dhs)
-  * [Mobile Apps](http://apps.usa.gov/apps-gallery/api/galleries.json)
-    * [FBI](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FBI*)
-    * [CIA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*CIA*)
-    * [NASA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*NASA*)
-    * [FEMA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FEMA*)
-    * [TSA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*TSA*)
 * Department of Justice
   * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
   * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
@@ -328,47 +204,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Pro Tip: you can do **a lot** more at [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
-* [City of Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
-  * [Bicycle Stations (Bike Share Toronto)](https://feeds.bikesharetoronto.com/stations/stations.json)
-  * [BodySafe](http://app.toronto.ca/opendata/bodysafe/full_list.json?v=1.00&row_start=1&row_count=1000000)
-  * [Doors Open 2016](http://wx.toronto.ca/inter/culture/doorsopen.nsf/DoorsOpenBuildingJSON.xsp)
-  * [Traffic Cameras](http://opendata.toronto.ca/transportation/tmc/rescucameraimages/Data/tmcearthcameras.json)
-  * [Heat Alerts and Extreme Heat Alerts](http://app.toronto.ca/opendata/heat_alerts/heat_alerts_list.json)
-  * [Road Restrictions](http://www1.toronto.ca/transportation/roadrestrictions/RoadRestrictions.json)
-* [Toronto Public Library](http://opendata.tplcs.ca/)
-  * [Top Website Searches from 2010 to 2014](http://opendata.tplcs.ca/data/TPL_top_website_searches_2010-2014.json)
-* [City of Vancouver](http://vancouver.ca/your-government/open-data-catalogue.aspx)
-  * [Electric Vehicle Charging Stations](http://bit.ly/2edrW46)
-  * [Drinking Fountains](http://bit.ly/2dKvJVM)
-  * [Weekend Playfield Status](http://bit.ly/2eEA4ty)
-  * [Lost Animals](http://bit.ly/2fhH2VA)
-* [California](http://boundaries.latimes.com/sets/)
-  * [U.S. Congressional Districts of California, 2011](http://boundaries.latimes.com/1.0/boundary-set/us-congressional-districts-2011/)
-  * [State Senate Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-senate-districts-2011.json)
-  * [State Assembly Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-assembly-districts-2011.json)
-  * [State Secondary School Districts, 2012](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/secondary-school-districts-2012.json)
-* [County of Los Angeles](https://data.lacounty.gov/)
-  * [Public Library Monthly Circulation](https://data.lacounty.gov/api/views/gf6j-sjun/rows.json?accessType=DOWNLOAD)
-  * [Employee Salaries](https://data.lacounty.gov/api/views/8rdv-6nb6/rows.json?accessType=DOWNLOAD)
-  * [Restaurants and Markets Violations](https://data.lacounty.gov/api/views/b9ey-v6ni/rows.json?accessType=DOWNLOAD)
-  * [City Boundaries](https://data.lacounty.gov/api/views/pwvf-ktdq/rows.json?accessType=DOWNLOAD)
-  * [ZIP Codes](https://data.lacounty.gov/api/views/dwvh-6kjy/rows.json?accessType=DOWNLOAD)
-  * [Assessor Parcels Data](https://data.lacounty.gov/api/views/9trm-uz8i/rows.json?accessType=DOWNLOAD)
-  * [Stolen Vehicles in the Last 12 Months](https://data.lacounty.gov/api/views/dctb-g4t5/rows.json?accessType=DOWNLOAD)
-* [City of Los Angeles](https://data.lacity.org/)
-  * [Building and Safety Permit Information](https://data.lacity.org/api/views/yv23-pmwf/rows.json?accessType=DOWNLOAD)
-  * [Port of Los Angeles Tsunami Evacuation Routes & Signs](https://data.lacity.org/api/views/dhqa-6x54/rows.json?accessType=DOWNLOAD)
-  * [City Budget Expenditures on Transportation](https://controllerdata.lacity.org/api/views/b22v-uk7s/rows.json?accessType=DOWNLOAD)
-  * [Library - Performance Metrics](https://data.lacity.org/api/views/kkby-9hji/rows.json?accessType=DOWNLOAD)
-  * [Immigration Workshops Event Calendar](https://data.lacity.org/api/views/vugs-2e9n/rows.json?accessType=DOWNLOAD)
-  * [DWP Payroll](https://controllerdata.lacity.org/api/views/jmgf-hhk6/rows.json?accessType=DOWNLOAD)
-* [City of Santa Monica](https://data.smgov.net/)
-  * [Trees!](https://data.smgov.net/api/views/ekya-mi9c/rows.json?accessType=DOWNLOAD)
-  * [City Wi-Fi Access Points](https://data.smgov.net/api/views/j485-ymdf/rows.json?accessType=DOWNLOAD)
-  * [Library Patron Totals By Zip Code](https://data.smgov.net/api/views/uiah-8k3s/rows.json?accessType=DOWNLOAD)
-  * [Santa Monica Airport Departures Log](https://data.smgov.net/api/views/jb23-x9zf/rows.json?accessType=DOWNLOAD)
-  * [Maximum Allowable Rent Map](https://data.smgov.net/api/views/fzk2-ujpt/rows.json?accessType=DOWNLOAD)
-  * [Historic Landmarks](https://data.smgov.net/api/views/qe7x-ueps/rows.json?accessType=DOWNLOAD)
 * EU Lobbying Transparency Register
   * [Country](http://api.lobbyfacts.eu/api/1/country)
   * [Entity](http://api.lobbyfacts.eu/api/1/entity)
@@ -404,8 +239,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Fish](https://data.michigan.gov/api/views/he9h-7fpa/rows.json?accessType=DOWNLOAD)
   * [State Facts](https://data.michigan.gov/api/views/pxdv-rgvb/rows.json?accessType=DOWNLOAD)
   * [Baby Names](https://data.michigan.gov/api/views/nndy-b6rm/rows.json?accessType=DOWNLOAD)
-* UK
-  * [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
 
 ## Historical Events
 * Languages
@@ -450,16 +283,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
 
 ## NASA
-* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
-* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
-* [Electric Arc Shock Tube (EAST) Test 52 Data](https://data.nasa.gov/api/views/eiwv-s7fe)
-* [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
-* [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
-* [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
 * [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
-* [Near-Earth Asteroids and Comets Discovered By NEOWISE](https://data.nasa.gov/resource/2vr3-k9wn.json)
+* [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(Discovered By NEOWISE)*
 
 > Find more NASA datasets [here](https://data.nasa.gov/data?category=&search=&type=href)
 
@@ -470,43 +297,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Prize](http://api.nobelprize.org/v1/prize.json)
 * [Laureate](http://api.nobelprize.org/v1/laureate.json)
 * [Country](http://api.nobelprize.org/v1/country.json)
-
-## Node.js API
-* [console](https://nodejs.org/api/console.json)
-* [Crypto](https://nodejs.org/api/crypto.json)
-* [Debugger](https://nodejs.org/api/debugger.json)
-* [DNS](https://nodejs.org/api/dns.json)
-* [Domain](https://nodejs.org/api/domain.json)
-* [Events](https://nodejs.org/api/events.json)
-* [File System](https://nodejs.org/api/fs.json)
-* [global](https://nodejs.org/api/globals.json)
-* [HTTP](https://nodejs.org/api/http.json)
-* [HTTPS](https://nodejs.org/api/https.json)
-* [Modules](https://nodejs.org/api/modules.json)
-* [net](https://nodejs.org/api/net.json)
-* [os](https://nodejs.org/api/os.json)
-* [Path](https://nodejs.org/api/path.json)
-* [process](https://nodejs.org/api/process.json)
-* [punycode](https://nodejs.org/api/punycode.json)
-* [Query String](https://nodejs.org/api/querystring.json)
-* [Readline](https://nodejs.org/api/readline.json)
-* [REPL](https://nodejs.org/api/repl.json)
-* [Smalloc](https://nodejs.org/api/smalloc.json)
-* [Stream](https://nodejs.org/api/stream.json)
-* [StringDecoder](https://nodejs.org/api/string_decoder.json)
-* [Timers](https://nodejs.org/api/timers.json)
-* [TLS (SSL)](https://nodejs.org/api/tls.json)
-* [TTY](https://nodejs.org/api/tty.json)
-* [UDP / Datagram Sockets](https://nodejs.org/api/dgram.json)
-* [URL](https://nodejs.org/api/url.json)
-* [util](https://nodejs.org/api/util.json)
-* [Executing JavaScript](https://nodejs.org/api/vm.json)
-* [Zlib](https://nodejs.org/api/zlib.json)
-* [Assert](https://nodejs.org/api/assert.json)
-* [Buffer](https://nodejs.org/api/buffer.json)
-* [Addons](https://nodejs.org/api/addons.json)
-* [Child Process](https://nodejs.org/api/child_process.json)
-* [Cluster](https://nodejs.org/api/cluster.json)
 
 ## Open Source Licenses
 * [All](https://api.opensource.org/licenses/)
@@ -531,17 +321,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
   * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
   * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
-    * [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=json)
   * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
   * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
   * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
   * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/)
   * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
   * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
-  * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
-  * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
-  * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
   * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
+  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
@@ -555,14 +342,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [2010](http://api.population.io/1.0/population/2010/United%20States/)
 
 * Historical Population (Since 1960)
-  * [United States](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
 > Heads up: Use `cURL` to view raw `JSON` e.g.:
 `$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
-
-* [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
 
 ## GDP (current US$)
 * [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
@@ -607,93 +391,31 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Heads up: Only works for US airports only, not international.
 
-* Metropolitan and Rural Transit Networks
-  * Arriva Trains Wales (Cardiff, Wales): [Operator service area](https://transit.land/api/v1/operators/o-gcm-arrivatrainswales) / [Routes](https://transit.land/api/v1/routes?operated_by=o-gcm-arrivatrainswales) / [Stops](https://transit.land/api/v1/stops?served_by=o-gcm-arrivatrainswales)
-  * Crossrail (London, England): [Operator service area](https://transit.land/api/v1/operators/o-u10j-crossrail) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u10j-crossrail) / [Stops](https://transit.land/api/v1/stops?served_by=o-u10j-crossrail)
-  * Dopravni podnik hl. m. Prahy, akciova spolecnost (Prague, Czech Republic): [Operator service area](https://transit.land/api/v1/operators/o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost) / [Stops](https://transit.land/api/v1/stops?served_by=o-u2fk-dopravnipodnikhlmprahyakciovaspolecnost)
-  * Empresa Municipal de Transportes (Madrid, Spain): [Operator service area](https://transit.land/api/v1/operators/o-ezjm-empresamunicipaldetransportes) / [Routes](https://transit.land/api/v1/routes?operated_by=o-ezjm-empresamunicipaldetransportes) / [Stops](https://transit.land/api/v1/stops?served_by=o-ezjm-empresamunicipaldetransportes)
-  * Helsingin seudun liikenne (Helsinki, Finland): [Operator service area](https://transit.land/api/v1/operators/o-ud9-helsinginseudunliikenne)
-  * Los Angeles County Metropolitan Transportation Authority (Los Angeles, United States): [Operator service area](https://transit.land/api/v1/operators/o-9q5-metro~losangeles) / [Routes](https://transit.land/api/v1/routes?operated_by=o-9q5-metro~losangeles) / [Stops](https://transit.land/api/v1/stops?served_by=o-9q5-metro~losangeles)
-  * Los Angeles Department of Transportation (Los Angeles, United States): [Operator service area](https://transit.land/api/v1/operators/o-9q5-ladot)
-  * MTA New York City Transit (New York, United States): [Operator service area](https://transit.land/api/v1/operators/o-dr5r-nyct) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dr5r-nyct) / [Stops](https://transit.land/api/v1/stops?served_by=o-dr5r-nyct)
-  * New York City Department of Transportation (New York, United States): [Operator service area](https://transit.land/api/v1/operators/o-dr5r7-nycdot) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dr5r7-nycdot) / [Stops](https://transit.land/api/v1/stops?served_by=o-dr5r7-nycdot)
-  * Régie Autonome des Transports Parisiens (Paris, France): [Operator service area](https://transit.land/api/v1/operators/o-u09-ratp100) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u09-ratp100) / [Stops](https://transit.land/api/v1/stops?served_by=o-u09-ratp100)
-  * Ruter (Oslo, Norway): [Operator service area](https://transit.land/api/v1/operators/o-u4x-ruter) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u4x-ruter) / [Stops](https://transit.land/api/v1/stops?served_by=o-u4x-ruter)
-  * Thameslink (London, England): [Operator service area](https://transit.land/api/v1/operators/o-gcp-thameslink) / [Routes](https://transit.land/api/v1/routes?operated_by=o-gcp-thameslink) / [Stops](https://transit.land/api/v1/stops?served_by=o-gcp-thameslink)
-  * Toronto Transit Comission (Toronto, Canada): [Operator service area](https://transit.land/api/v1/operators/o-dpz8-ttc) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dpz8-ttc) / [Stops](https://transit.land/api/v1/stops?served_by=o-dpz8-ttc)
-
-> Pro Tip: many more transit networks available [here](https://transit.land/feed-registry/)
-
-* London Underground Tube Train Stations
-  * [All stations](http://marquisdegeek.com/api/tube/)
-
 ## TV Shows
-* [Girls (HBO)](http://api.tvmaze.com/singlesearch/shows?q=hbo&embed=episodes)
-* [Dexter (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes)
-* [Shameless (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=shameless&embed=episodes)
+
 * [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
-* [Prison Break (FOX)](http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes)
-* [Gravity Falls (Disney XD)](http://api.tvmaze.com/singlesearch/shows?q=gravity-falls&embed=episodes)
-* [Modern Family (ABC)](http://api.tvmaze.com/singlesearch/shows?q=modern-family&embed=episodes)
-* [Ray Donovan (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Ray-Donovan&embed=episodes)
 * [Better Call Saul (AMC)](http://api.tvmaze.com/singlesearch/shows?q=better-call-saul&embed=episodes)
 * [Homeland (Showtime)](http://api.tvmaze.com/singlesearch/shows?q=Homeland&embed=episodes)
 * [Silicon Valley (HBO)](http://api.tvmaze.com/singlesearch/shows?q=silicon-valley&embed=episodes)
-* [Breaking Bad (AMC)](http://api.tvmaze.com/singlesearch/shows?q=breaking-bad&embed=episodes)
 * [The Walking Dead (AMC)](http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead&embed=episodes)
 * [South Park (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=south-park&embed=episodes)
-* [Futurama (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=Futurama&embed=episodes)
 * [Game of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
-* [Lost (ABC)](http://api.tvmaze.com/singlesearch/shows?q=lost&embed=episodes)
-* [24 (FOX)](http://api.tvmaze.com/singlesearch/shows?q=24&embed=episodes)
-* [Prison Break (FOX)](http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes)
 * [House of Cards (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=house-of-cards&embed=episodes)
-* [Seinfeld (NBC)](http://api.tvmaze.com/singlesearch/shows?q=seinfeld&embed=episodes)
-* [Gotham (FOX)](http://api.tvmaze.com/singlesearch/shows?q=gotham&embed=episodes)
-* [Friends (NBC)](http://api.tvmaze.com/singlesearch/shows?q=friends&embed=episodes)
-* [How I Met Your Mother (CBS)](http://api.tvmaze.com/singlesearch/shows?q=how-i-met-your-mother&embed=episodes)
-* [Grey's Anatomy (ABC)](http://api.tvmaze.com/singlesearch/shows?q=greys-anatomy&embed=episodes)
-* [The Flash (The CW)](http://api.tvmaze.com/singlesearch/shows?q=flash&embed=episodes)
-* [Game Of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones&embed=episodes)
-* [Arrow (The CW)](http://api.tvmaze.com/singlesearch/shows?q=arrow&embed=episodes)
-* [Legends of Tommorow (The CW)](http://api.tvmaze.com/singlesearch/shows?q=legends-of-tomorrow&embed=episodes)
 * [The Big Bang Theory (CBS)](http://api.tvmaze.com/singlesearch/shows?q=big-bang-theory&embed=episodes)
-* [Friends (NBC)](http://api.tvmaze.com/singlesearch/shows?q=friends&embed=episodes)
-* [The Flash (CW)](http://api.tvmaze.com/singlesearch/shows?q=flash&embed=episodes)
-* [Arrow (CW)](http://api.tvmaze.com/singlesearch/shows?q=arrow&embed=episodes)
-* [Supergirl (CW)](http://api.tvmaze.com/singlesearch/shows?q=supergirl&embed=episodes)
-* [Quantico (ABC)](http://api.tvmaze.com/singlesearch/shows?q=quantico&embed=episodes)
-* [Sherlock (BBC)](http://api.tvmaze.com/singlesearch/shows?q=sherlock&embed=episodes)
-* [Pitchers (TVF)](http://api.tvmaze.com/singlesearch/shows?q=Pitchers&embed=episodes)
 * [Narcos (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=narcos&embed=episodes)
 * [Black Mirror (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=black-mirror&embed=episodes)
 * [Stranger Things (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=stranger-things&embed=episodes)
 * [Rick and Morty (Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
-* [Steven Universe (Cartoon Network)](http://api.tvmaze.com/singlesearch/shows?q=steven-universe&embed=episodes)
 * [Westworld (HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
-* [Movie Information](http://www.omdbapi.com/)
+* [The Open Movie Databse](http://www.omdbapi.com/)
   * [The Dark Knight](http://www.omdbapi.com/?t=the+dark+knight&y=&plot=short&r=json)
-  * [Titanic (1997)](http://www.omdbapi.com/?t=titanic&y=&plot=short&r=json)
   * [Good Will Hunting](http://www.omdbapi.com/?t=Good+will+hunting&y=&plot=short&r=json)
-  * [Pink](http://www.omdbapi.com/?t=pink&y=&plot=short&r=json)
-  * [M.S. Dhoni: The Untold Story](http://www.omdbapi.com/?t=M.S.+Dhoni%3A+The+Untold+Story&y=2016&plot=short&r=json)
-  * [Rustom](http://www.omdbapi.com/?t=rustom&y=&plot=short&r=json)
-  * [3 Idiots](http://www.omdbapi.com/?t=3%20idiots&y=&plot=short&r=json)
-  * [Airlift](http://www.omdbapi.com/?t=airlift&y=&plot=short&r=json)
-  * [Queen](http://www.omdbapi.com/?t=queen&y=&plot=short&r=json)
-  * [Sultan](http://www.omdbapi.com/?t=sultan&y=&plot=short&r=json)
-  * [Big Hero 6](http://www.omdbapi.com/?t=big%20hero&y=&plot=short&r=json)
-  * [Sunspring](http://www.omdbapi.com/?t=sunspring&y=&plot=short&r=json)
-  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
-  * [A Wednesday](http://www.omdbapi.com/?t=a-wednesday&y=&plot=short&r=json)
-  * [Shivaay](http://www.omdbapi.com/?t=shivaay&y=&plot=short&r=json)
-  * [Lagaan](http://www.omdbapi.com/?t=lagaan&y=&plot=short&r=json)
-  * [Swades](http://www.omdbapi.com/?t=swades&y=&plot=short&r=json)
-  * [Kahaani](http://www.omdbapi.com/?t=kahaani&y=&plot=short&r=json)
+  * [Casino](http://www.omdbapi.com/?t=casino&y=&plot=short&r=json)
+  * [Deadpool](http://www.omdbapi.com/?t=deadpool&y=&plot=short&r=json)
 
 > Pro Tip: replace the title value for a movie in the url. See [Omdbapi](http://www.omdbapi.com/) for more information.
 
@@ -713,30 +435,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Jerusalem](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Jerusalem%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Tokyo](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Tokyo%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Sydney](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Sydney%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Kuala Lumpur](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D"Kuala%20Lumpur"%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [New Delhi](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22New%20Delhi%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Mexico City](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Mexico%20City%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Tehran](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Tehran%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Mumbai](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Mumbai%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Cape Town](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Cape%20Town%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Madrid](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Madrid%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 * [Buenos Aires](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Buenos%20Aires%2C%20CA%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Lucknow](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22nome%2C%20ak%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
-* [Leipzig (historical data)](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=1&rubrik_nr=3&periode=y&format=json)
-* [Firenze](https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20%28select%20woeid%20from%20geo.places%281%29%20where%20text%3D%22Firenze%2C%20ak%22%29&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys)
 
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
-
-## Other
-* [Wikidata](https://dumps.wikimedia.org/other/wikidata/) *Gigabytes of Gzipped JSON*
-* [Industries](https://www.sajari.com/free-data/industries.json)
-* [Hackerspaces](http://spaceapi.net/directory.json) *implementing the [Space API](http://spaceapi.net/)*
-* [jService - 156,800 Trivia Questions](http://jservice.io/api/clues)
-* [IP Geolocation](http://ip-api.com/json/8.8.8.8)
-* [Zip Code to Province and District in Thailand](https://raw.githubusercontent.com/rathjung/Thai-zip-code-latitude-and-longitude/22f51dd4beb9117b76348527a1848058a690e43a/data.json)
-* [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
-* [Colleges](http://spencerfricke.com/data/college_full_data.json)
-* [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
