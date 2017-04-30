@@ -169,21 +169,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
-* USA.gov
-  * [Corporate Consumer Contact Directory](https://www.usa.gov/api/USAGovAPI/corporate/contacts.json/contacts)
-  * [Federal Agency Contact Directory](https://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
-    * [FBI](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49278)
-    * [CIA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52590)
-    * [DEA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52688)
-    * [TSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48143)
-    * [NSA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49546)
-    * [DOJ](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/52686)
-    * [DOD](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49229)
-    * [FEMA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48042)
-    * [DHS](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49022)
-    * [FDA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/48058)
-    * [NASA](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49476)
-    * [Secret Service](https://www.usa.gov/api/USAGovAPI/contacts.json/contact/49660)
 * Department of Justice
   * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
   * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
