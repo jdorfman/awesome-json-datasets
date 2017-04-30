@@ -177,10 +177,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * Department of Labor
   * [Total Private Average Weekly Hours of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
   * [Total Private Average Hourly Earnings of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
-* Parliament of Canada
-  * [Bills](http://api.parliamentdata.ca/bills)
-  * [Representatives](http://api.parliamentdata.ca/representatives)
-  * [Committees](http://api.parliamentdata.ca/committees)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
