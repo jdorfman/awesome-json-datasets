@@ -189,6 +189,29 @@
 
 * UK
   * [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
+
+* Social Media Accounts
+  * [USDA](http://registry.usa.gov/accounts.json?agency_id=usda)
+  * [FBI](http://registry.usa.gov/accounts.json?agency_id=fbi)
+  * [CIA](http://registry.usa.gov/accounts.json?agency_id=cia)
+  * [NASA](http://registry.usa.gov/accounts.json?agency_id=nasa)
+  * [FEMA](http://registry.usa.gov/accounts.json?agency_id=fema)
+  * [DHS](http://registry.usa.gov/accounts.json?agency_id=dhs)
+* [Mobile Apps](http://apps.usa.gov/apps-gallery/api/galleries.json)
+  * [FBI](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FBI*)
+  * [CIA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*CIA*)
+  * [NASA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*NASA*)
+  * [FEMA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*FEMA*)
+  * [TSA](http://apps.usa.gov/apps-gallery/api/registrations.json?Name=*TSA*)
+  * [Trade Events](http://developer.trade.gov/api/trade-events.json)
+  * [Trade Leads](http://developer.trade.gov/api/trade-leads.json)
+  * [FAQs on Exporting](http://developer.trade.gov/api/ita-faqs.json)
+  * [ITA Offices & Centers](http://developer.trade.gov/api/ita-office-locations.json)
+  * [Trade News & Articles](http://developer.trade.gov/api/ita-articles.json)
+  * [List of dpw maintained street trees](https://data.sfgov.org/api/views/tkzw-k3nq/rows.json?accessType=DOWNLOAD)
+  * [Zip Code to USEAC](http://developer.trade.gov/api/zip-code-to-useac.json)
+  * [Press Releases](https://data.ny.gov/api/views/n2k2-wzfz/rows.json?accessType=DOWNLOAD)
+
 * ## Node.js API
 * [console](https://nodejs.org/api/console.json)
 * [Crypto](https://nodejs.org/api/crypto.json)
