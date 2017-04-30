@@ -355,7 +355,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * FAA Airport Status
   * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [LAX](http://services.faa.gov/airport/status/LAX?format=application/json)
-  * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [PHX](http://services.faa.gov/airport/status/PHX?format=application/json)
   * [JFK](http://services.faa.gov/airport/status/JFK?format=application/json)
   * [ATL](http://services.faa.gov/airport/status/ATL?format=application/json)
