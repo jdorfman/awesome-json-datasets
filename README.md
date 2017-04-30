@@ -120,34 +120,21 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [VAT rates for EU](http://jsonvat.com/)
 
 ## Gaming
-* [BattleField 4](http://bf4stats.com/api)
-  * [Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
-
-* Pokémon
-  * [PokéApi](https://pokeapi.co/docsv2/)
-    * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
-    * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
-    * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
- * [PokémonGo Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
+* [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
+* [Pokémon](https://pokeapi.co/docsv2/)
+  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
+  * [Types](http://pokeapi.co/api/v2/type/1/) *(Replace `1` with another number to retrieve different type)*
+  * [Abilities](http://pokeapi.co/api/v2/ability/1) *(Replace `1` with another number to retrieve different ability)*
+* [Pokédex](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 
 * [Magic: The Gathering](http://magic.wizards.com)
-  * [MTG LEA Set](https://mtgjson.com/json/LEA.json)
   * [MTG LEA Set + Extras](https://mtgjson.com/json/LEA-x.json)
-  * [MTG LEB Set](https://mtgjson.com/json/LEB.json)
   * [MTG LEB Set + Extras](https://mtgjson.com/json/LEB-x.json)
-  * [MTG ARN Set](https://mtgjson.com/json/ARN.json)
   * [MTG ARN Set + Extras](https://mtgjson.com/json/ARN-x.json)
 
 > Protip: [https://mtgjson.com](https://mtgjson.com) lists many more Magic: The Gathering card data sets, as well as zipped versions of all sets.
 
-* [Hearthstone](https://hearthstonejson.com/)
-  * [All cards, in every language](https://api.hearthstonejson.com/v1/latest/all/cards.json)
-  * [All cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
-  * [Collectible cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
-  * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
-
-* [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
 ## GitHub API
 * [Emojis](https://api.github.com/emojis)
