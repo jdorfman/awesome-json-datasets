@@ -327,17 +327,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
   * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
   * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
-    * [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=json)
   * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
   * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
   * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
   * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/)
   * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
   * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
-  * [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
-  * [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
-  * [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
   * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
+  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
@@ -351,14 +348,11 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
     * [2010](http://api.population.io/1.0/population/2010/United%20States/)
 
 * Historical Population (Since 1960)
-  * [United States](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
 > Heads up: Use `cURL` to view raw `JSON` e.g.:
 `$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
-
-* [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
 
 ## GDP (current US$)
 * [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)

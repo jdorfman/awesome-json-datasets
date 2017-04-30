@@ -317,3 +317,12 @@
   * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
 
 * [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
+
+## Population
+
+* [Leipzig](http://statistik.leipzig.de/opendata/api/values?kategorie_nr=2&rubrik_nr=1&periode=y&format=json)
+* [Serbia](http://api.population.io/1.0/population/Serbia/today-and-tomorrow/)
+* [Colombia](http://api.population.io/1.0/population/Colombia/today-and-tomorrow/)
+* [Venezuela](http://api.population.io/1.0/population/RB-de-Venezuela/today-and-tomorrow/)
+* [United States](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
+* [United States Poverty Data](http://uspovertydata.com/povcal/api.php)
