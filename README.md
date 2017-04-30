@@ -170,13 +170,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
 * Department of Justice
-  * [Blog Entries](http://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
-  * [Press Releases](http://www.justice.gov/api/v1/press_releases.json?pagesize=2)
-  * [Speeches](http://www.justice.gov/api/v1/speeches.json?pagesize=2)
+  * [Blog Entries](https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
+  * [Press Releases](https://www.justice.gov/api/v1/press_releases.json?pagesize=2)
+  * [Speeches](https://www.justice.gov/api/v1/speeches.json?pagesize=2)
   * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
 * Department of Labor
-  * [Total Private Average Weekly Hours of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
-  * [Total Private Average Hourly Earnings of All Employees](http://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
+  * [Total Private Average Weekly Hours of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
+  * [Total Private Average Hourly Earnings of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
@@ -269,7 +269,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *(Discovered By NEOWISE)*
 
 ## Natural Disasters
-* [Earthquakes](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
+* [Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
 
 ## Nobel Prize
 * [Prize](http://api.nobelprize.org/v1/prize.json)
