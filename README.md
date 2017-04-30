@@ -25,7 +25,6 @@
 * [NASA](#nasa)
 * [Nobel Prize](#nobel-prize)
 * [Population](#population)
-* [GDP (current US$)](#gdp-current-us)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
@@ -118,6 +117,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+* GDP
+  * [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
+  * [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
+  * [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
@@ -325,11 +328,6 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 > Heads up: Use `cURL` to view raw `JSON` e.g.:
 `$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
-
-## GDP (current US$)
-* [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
-* [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
-* [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
 > Pro Tip: Link to country list [Here](http://api.worldbank.org/countries?per_page=304&format=json)
 
