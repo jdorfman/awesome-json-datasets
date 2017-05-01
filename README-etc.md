@@ -340,5 +340,5 @@
 * [Realized Cost Savings and Avoidance Decisions](https://data.nasa.gov/api/views/jh9h-68aq)
 * [NASA Educational Resources](https://data.nasa.gov/api/views/njat-edii)
 * [ISS Expedition 01 Press Kit](https://data.nasa.gov/api/views/vdbj-basa)
-* [Cost Savings](http://www.nasa.gov/digitalstrategy/costsavings.json)
-* [Bureau Directory](http://www.nasa.gov/digitalstrategy/bureaudirectory.json)
+* [Cost Savings](https://www.nasa.gov/digitalstrategy/costsavings.json)
+* [Bureau Directory](https://www.nasa.gov/digitalstrategy/bureaudirectory.json)
