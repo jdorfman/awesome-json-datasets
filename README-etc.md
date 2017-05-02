@@ -311,13 +311,11 @@
 * [MTG LEA Set](https://mtgjson.com/json/LEA.json)
 * [MTG LEB Set](https://mtgjson.com/json/LEB.json)
 * [MTG ARN Set](https://mtgjson.com/json/ARN.json)
-
 * [Hearthstone](https://hearthstonejson.com/)
   * [All cards, in every language](https://api.hearthstonejson.com/v1/latest/all/cards.json)
   * [All cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.json)
   * [Collectible cards, in English](https://api.hearthstonejson.com/v1/latest/enUS/cards.collectible.json)
   * [Card backs, in English](https://api.hearthstonejson.com/v1/latest/enUS/cardbacks.json)
-
 * [EA Sports FIFA](https://www.easports.com/fifa/ultimate-team/api/fut/item?page=1) *(Replace `?page=1` with another page number up to totalPages, currently 615)*
 
 ## Population
