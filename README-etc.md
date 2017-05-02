@@ -117,7 +117,6 @@
 * [jService - 156,800 Trivia Questions](http://jservice.io/api/clues)
 * [IP Geolocation](http://ip-api.com/json/8.8.8.8)
 * [Zip Code to Province and District in Thailand](https://raw.githubusercontent.com/rathjung/Thai-zip-code-latitude-and-longitude/22f51dd4beb9117b76348527a1848058a690e43a/data.json)
-* [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
 
 # Currency
 
@@ -166,7 +165,7 @@
   * [Weekend Playfield Status](http://bit.ly/2eEA4ty)
   * [Lost Animals](http://bit.ly/2fhH2VA)
 * [California](http://boundaries.latimes.com/sets/)
-  * [U.S. Congressional Districts of California, 2011](http://boundaries.latimes.com/1.0/boundary-set/us-congressional-districts-2011/)
+  * [U.S. Congressional Districts of California, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/us-congressional-districts-2011.json)
   * [State Senate Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-senate-districts-2011.json)
   * [State Assembly Districts, 2011](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/state-assembly-districts-2011.json)
   * [State Secondary School Districts, 2012](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary-set/secondary-school-districts-2012.json)
