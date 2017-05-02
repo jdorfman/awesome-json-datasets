@@ -149,7 +149,6 @@
 * [DATA.RALEIGHNC.GOV](https://data.raleighnc.gov/)
   * [ABC Liquor License](https://data.raleighnc.gov/api/views/4253-v43q/rows.json?accessType=DOWNLOAD)
   * [Public Meetings Calendar](https://data.raleighnc.gov/api/views/snpm-8ugp/rows.json?accessType=DOWNLOAD)
-
 * [City of Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
   * [Bicycle Stations (Bike Share Toronto)](https://feeds.bikesharetoronto.com/stations/stations.json)
   * [BodySafe](http://app.toronto.ca/opendata/bodysafe/full_list.json?v=1.00&row_start=1&row_count=1000000)
@@ -191,10 +190,8 @@
   * [Santa Monica Airport Departures Log](https://data.smgov.net/api/views/jb23-x9zf/rows.json?accessType=DOWNLOAD)
   * [Maximum Allowable Rent Map](https://data.smgov.net/api/views/fzk2-ujpt/rows.json?accessType=DOWNLOAD)
   * [Historic Landmarks](https://data.smgov.net/api/views/qe7x-ueps/rows.json?accessType=DOWNLOAD)
-
 * UK
   * [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
-
 * Social Media Accounts
   * [USDA](http://registry.usa.gov/accounts.json?agency_id=usda)
   * [FBI](http://registry.usa.gov/accounts.json?agency_id=fbi)
