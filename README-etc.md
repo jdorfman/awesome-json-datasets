@@ -118,8 +118,6 @@
 * [IP Geolocation](http://ip-api.com/json/8.8.8.8)
 * [Zip Code to Province and District in Thailand](https://raw.githubusercontent.com/rathjung/Thai-zip-code-latitude-and-longitude/22f51dd4beb9117b76348527a1848058a690e43a/data.json)
 * [Physical Therapy Exercises](https://git.drp.digital/careuk/careuk-pocket-physio-hybrid-app/raw/feature/final-exercise-data/src/data/exercises-structure.json)
-* [Colleges](http://spencerfricke.com/data/college_full_data.json)
-* [Esperanto Words Set](https://api.eo.kevineaton.net/random) *You can drop the /random to get the full list (~700k)*
 
 # Currency
 
@@ -241,7 +239,6 @@
   * [Readline](https://nodejs.org/api/readline.json)
   * [REPL](https://nodejs.org/api/repl.json)
   * [Smalloc](https://nodejs.org/api/smalloc.json)
-  * [Stream](https://nodejs.org/api/stream.json)
   * [StringDecoder](https://nodejs.org/api/string_decoder.json)
   * [Timers](https://nodejs.org/api/timers.json)
   * [TLS (SSL)](https://nodejs.org/api/tls.json)
@@ -285,7 +282,6 @@
   * New York City Department of Transportation (New York, United States): [Operator service area](https://transit.land/api/v1/operators/o-dr5r7-nycdot) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dr5r7-nycdot) / [Stops](https://transit.land/api/v1/stops?served_by=o-dr5r7-nycdot)
   * Régie Autonome des Transports Parisiens (Paris, France): [Operator service area](https://transit.land/api/v1/operators/o-u09-ratp100) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u09-ratp100) / [Stops](https://transit.land/api/v1/stops?served_by=o-u09-ratp100)
   * Ruter (Oslo, Norway): [Operator service area](https://transit.land/api/v1/operators/o-u4x-ruter) / [Routes](https://transit.land/api/v1/routes?operated_by=o-u4x-ruter) / [Stops](https://transit.land/api/v1/stops?served_by=o-u4x-ruter)
-  * Thameslink (London, England): [Operator service area](https://transit.land/api/v1/operators/o-gcp-thameslink) / [Routes](https://transit.land/api/v1/routes?operated_by=o-gcp-thameslink) / [Stops](https://transit.land/api/v1/stops?served_by=o-gcp-thameslink)
   * Toronto Transit Comission (Toronto, Canada): [Operator service area](https://transit.land/api/v1/operators/o-dpz8-ttc) / [Routes](https://transit.land/api/v1/routes?operated_by=o-dpz8-ttc) / [Stops](https://transit.land/api/v1/stops?served_by=o-dpz8-ttc)
 
 > Pro Tip: many more transit networks available [here](https://transit.land/feed-registry/)
