@@ -3,11 +3,11 @@
     "test": "node tests/whitespace_test.js"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/jdorfman/Awesome-JSON-Datasets"
+    "type": "git",
+    "url": "https://github.com/jdorfman/Awesome-JSON-Datasets"
   },
   "license": "CC0 1.0",
   "dependencies": {
-  "markdownlint": "^0.0.7"
+    "markdownlint": "^0.6.1"
   }
 }
