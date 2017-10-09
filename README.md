@@ -164,6 +164,10 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [Current US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
   * [Current US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
   * [Bills Introduced in the 114th Congress (2015-2017)](https://www.govtrack.us/api/v2/bill?congress=114&limit=1000)
+* US State Legislations
+  * [Bills](http://docs.openstates.org/en/latest/api/bills.html#bills)
+  * [Legislators](http://docs.openstates.org/en/latest/api/legislators.html#legislators)
+  * [Committees](http://docs.openstates.org/en/latest/api/committees.html#committees)
 
 > Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
