@@ -225,7 +225,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [deflate](http://httpbin.org/deflate)
 * [response-headers](http://httpbin.org/response-headers?Content-Type=text/plain;%20charset=UTF-8&Server=MaxCDN)
 * [cookies](http://httpbin.org/cookies)
-* [stream](http://httpbin.org/stream/10) *(**Warning**: currently returning "Parse error on line 1".)*
+* [stream](http://httpbin.org/stream/10)
 * [delay](http://httpbin.org/delay/3)
 * [cache](http://httpbin.org/cache/60) *(`60` === `60 seconds`)*
 
