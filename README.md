@@ -40,17 +40,6 @@
 
 > Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
 
-* [Global Tickers](https://api.bitcoinaverage.com/ticker/global/)
-  * [All](https://api.bitcoinaverage.com/ticker/global/all)
-  * [USD](https://api.bitcoinaverage.com/ticker/global/USD/)
-  * [GBP](https://api.bitcoinaverage.com/ticker/global/GBP/)
-  * [EUR](https://api.bitcoinaverage.com/ticker/global/EUR/)
-  * [INR](https://api.bitcoinaverage.com/ticker/global/INR/)
-  * [AUD](https://api.bitcoinaverage.com/ticker/global/AUD/)
-  * [CAD](https://api.bitcoinaverage.com/ticker/global/CAD/)
-  * [JPY](https://api.bitcoinaverage.com/ticker/global/JPY/)
-  * [CNY](https://api.bitcoinaverage.com/ticker/global/CNY/)
-
 > Pro Tip: Currencies dedicated endpoints are available at `https://api.bitcoinaverage.com/ticker/global/ENTER-SYMBOL/`
 
 ## Cars
