@@ -40,8 +40,6 @@
 
 > Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
 
-> Pro Tip: Currencies dedicated endpoints are available at `https://api.bitcoinaverage.com/ticker/global/ENTER-SYMBOL/`
-
 ## Cars
 * [All Makes](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes)
 * Makes Sold in USA
