@@ -8,8 +8,6 @@
 <a href="https://www.stickermule.com/marketplace/10034-awesome" target="_blank"><img src="https://www.stickermule.com/marketplace/embed_img/10034" width="300px"></a>
 </h3>
 
-* [Node.js API](#nodejs-api)
-
 ## Crime
 
 * [Leicestershire Police](https://data.police.uk/api/forces/leicestershire)
