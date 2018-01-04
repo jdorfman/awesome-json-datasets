@@ -2,7 +2,7 @@
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)
 
-> A curated list of awesome JSON datasets that don't require authentication.
+A curated list of awesome JSON datasets that don't require authentication.
 
 ## Contents
 * [Bitcoin](#bitcoin)
