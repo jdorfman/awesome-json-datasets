@@ -37,6 +37,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 > Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
 
 ## Cars
+> Note: Requires jQuery. [Read the docs](http://www.carqueryapi.com/documentation/api-usage/)
 * [All Makes](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes)
 * Makes Sold in USA
   * [1940](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1941&sold_in_us=1)
