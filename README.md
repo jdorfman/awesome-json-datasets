@@ -272,18 +272,18 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Population
 
 * Total Population Today
-  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/)
-  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
-  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
-  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
-  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
-  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
-  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
-  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/)
-  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
-  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
-  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
-  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/)
+  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/?format=json)
+  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/?format=json)
+  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/?format=json)
+  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/?format=json)
+  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/?format=json)
+  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/?format=json)
+  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/?format=json)
+  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/?format=json)
+  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/?format=json)
+  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/?format=json)
+  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/?format=json)
+  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/?format=json)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
