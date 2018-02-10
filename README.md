@@ -288,13 +288,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
 * United States Population Table (Ages 0-100)
-    * [1950](http://api.population.io/1.0/population/1950/United%20States/)
-    * [1960](http://api.population.io/1.0/population/1960/United%20States/)
-    * [1970](http://api.population.io/1.0/population/1970/United%20States/)
-    * [1980](http://api.population.io/1.0/population/1980/United%20States/)
-    * [1990](http://api.population.io/1.0/population/1990/United%20States/)
-    * [2000](http://api.population.io/1.0/population/2000/United%20States/)
-    * [2010](http://api.population.io/1.0/population/2010/United%20States/)
+    * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
+    * [1960](http://api.population.io/1.0/population/1960/United%20States/?format=json)
+    * [1970](http://api.population.io/1.0/population/1970/United%20States/?format=json)
+    * [1980](http://api.population.io/1.0/population/1980/United%20States/?format=json)
+    * [1990](http://api.population.io/1.0/population/1990/United%20States/?format=json)
+    * [2000](http://api.population.io/1.0/population/2000/United%20States/?format=json)
+    * [2010](http://api.population.io/1.0/population/2010/United%20States/?format=json)
 
 * Historical Population (Since 1960)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
