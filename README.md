@@ -19,7 +19,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [NASA](#nasa)
 * [Nobel Prize](#nobel-prize)
 * [Population](#population)
-* [GDP (current US$)](#gdp-current-us)
+* [GDP](#gdp)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
@@ -272,38 +272,35 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 ## Population
 
 * Total Population Today
-  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/)
-  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/)
-  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/)
-  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/)
-  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/)
-  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/)
-  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/)
-  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/)
-  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/)
-  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/)
-  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/)
-  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/)
+  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/?format=json)
+  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/?format=json)
+  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/?format=json)
+  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/?format=json)
+  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/?format=json)
+  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/?format=json)
+  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/?format=json)
+  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/?format=json)
+  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/?format=json)
+  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/?format=json)
+  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/?format=json)
+  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/?format=json)
 
 > Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
 
 * United States Population Table (Ages 0-100)
-    * [1950](http://api.population.io/1.0/population/1950/United%20States/)
-    * [1960](http://api.population.io/1.0/population/1960/United%20States/)
-    * [1970](http://api.population.io/1.0/population/1970/United%20States/)
-    * [1980](http://api.population.io/1.0/population/1980/United%20States/)
-    * [1990](http://api.population.io/1.0/population/1990/United%20States/)
-    * [2000](http://api.population.io/1.0/population/2000/United%20States/)
-    * [2010](http://api.population.io/1.0/population/2010/United%20States/)
+    * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
+    * [1960](http://api.population.io/1.0/population/1960/United%20States/?format=json)
+    * [1970](http://api.population.io/1.0/population/1970/United%20States/?format=json)
+    * [1980](http://api.population.io/1.0/population/1980/United%20States/?format=json)
+    * [1990](http://api.population.io/1.0/population/1990/United%20States/?format=json)
+    * [2000](http://api.population.io/1.0/population/2000/United%20States/?format=json)
+    * [2010](http://api.population.io/1.0/population/2010/United%20States/?format=json)
 
 * Historical Population (Since 1960)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
-> Heads up: Use `cURL` to view raw `JSON` e.g.:
-`$ curl -s http://api.population.io/1.0/countries | python -m json.tool`
-
-## GDP (current US$)
+## GDP
 * [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
@@ -365,6 +362,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
+* [American movies scraped from Wikipedia](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json)
 * [Showtime](http://showtimes.everyday.in.th/api/v2/)
   * [Current Movies in Thailand](http://showtimes.everyday.in.th/api/v2/movie/)
   * [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
