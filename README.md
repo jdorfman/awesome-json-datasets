@@ -19,7 +19,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [NASA](#nasa)
 * [Nobel Prize](#nobel-prize)
 * [Population](#population)
-* [GDP (current US$)](#gdp-current-us)
+* [GDP](#gdp)
 * [Reddit](#reddit)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
@@ -300,7 +300,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
-## GDP (current US$)
+## GDP
 * [USA](http://api.worldbank.org/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
