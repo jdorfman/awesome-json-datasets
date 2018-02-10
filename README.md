@@ -362,6 +362,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
 ## Movies
+* [American movies scraped from Wikipedia](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json)
 * [Showtime](http://showtimes.everyday.in.th/api/v2/)
   * [Current Movies in Thailand](http://showtimes.everyday.in.th/api/v2/movie/)
   * [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
