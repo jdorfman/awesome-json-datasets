@@ -6,7 +6,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## Contents
 * [Bitcoin](#bitcoin)
-* [Cars](#cars)
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
@@ -35,38 +34,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
 
 > Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
-
-## Cars
-> Note: Requires jQuery. [Read the docs](http://www.carqueryapi.com/documentation/api-usage/)
-* [All Makes](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes)
-* Makes Sold in USA
-  * [1940](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1941&sold_in_us=1)
-  * [1950](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1950&sold_in_us=1)
-  * [1960](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1960&sold_in_us=1)
-  * [1970](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1970&sold_in_us=1)
-  * [1980](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1980&sold_in_us=1)
-  * [1990](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=1990&sold_in_us=1)
-  * [2000](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=2000&sold_in_us=1)
-  * [2010](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getMakes&year=2010&sold_in_us=1)
-
-> Pro Tip: replace the field-value for a year not listed e.g. `?&cmd=getMakes&year=1969`.
-You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
-
-* Models
-  * [Ford](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=ford)
-  * [GMC](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=gmc)
-  * [Acura](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=acura)
-  * [Cadillac](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Cadillac)
-  * [Ferrari](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Ferrari)
-  * [Jaguar](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Jaguar)
-  * [Mercedes-Benz](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Mercedes-Benz)
-  * [BMW](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=BMW)
-  * [Nissan](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Nissan)
-  * [Porsche](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Porsche)
-  * [Subaru](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Subaru)
-  * [Toyota](http://www.carqueryapi.com/api/0.3/?callback=?&cmd=getModels&make=Toyota)
-
-> Pro Tip: replace the field-value for a model not listed e.g. `make=CarCompany`.
 
 ## Climate
 
