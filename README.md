@@ -35,7 +35,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Latest Block](https://blockchain.info/latestblock)
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
 
-> Pro Tip: Check out [Blockchain Data API](https://blockchain.info/api/blockchain_api) for more options.
+> Pro Tip: Check out [Cryptocurrency Market Capitalizations](https://api.coinmarketcap.com/v1/ticker/) for more cryptocurrency prices.
 
 ## Climate
 
