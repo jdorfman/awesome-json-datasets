@@ -93,38 +93,19 @@ A curated list of awesome JSON datasets that don't require authentication.
 ## Government
 * [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
   * [Market Research Library](http://developer.trade.gov/api/market-research-library.json)
-  * [Consolidated Screening Lists](http://developer.trade.gov/api/consolidated-screening-lists.json)
-  * [Tariff Rates](http://developer.trade.gov/api/tariff-rates.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
-  * [ITA Taxonomies](http://developer.trade.gov/api/ita-taxonomies.json)
-  * [U.S. Chronic Disease Indicators](https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD)
   * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
-  * [Healthcare Associated Infections - Hospital](https://data.medicare.gov/api/views/77hc-ibv8/rows.json?accessType=DOWNLOAD)
-* [DATA.CA.GOV](https://data.ca.gov/)
-* [DATA.NY.GOV](https://data.ny.gov/browse?limitTo=datasets&utf8=%E2%9C%93)
-  * [Cash 4 Life Winning Lottery Numbers](https://data.ny.gov/api/views/kwxv-fwze/rows.json?accessType=DOWNLOAD)
-  * [Retail Food Stores](https://data.ny.gov/api/views/9a8c-vfzj/rows.json?accessType=DOWNLOAD)
-  * [Child Care Programs](https://data.ny.gov/api/views/cb42-qumz/rows.json?accessType=DOWNLOAD)
-  * [Mental Health Programs](https://data.ny.gov/api/views/6nvr-tbv8/rows.json?accessType=DOWNLOAD)
-  * [Jobs by Industry](https://data.ny.gov/api/views/pxa9-czw8/rows.json?accessType=DOWNLOAD)
-  * [Mega Millions Lottery Winning Numbers](https://data.ny.gov/api/views/5xaw-6ayf/rows.json?accessType=DOWNLOAD)
-  * [Powerball Lottery Winning Numbers](https://data.ny.gov/api/views/d6yy-54nr/rows.json?accessType=DOWNLOAD)
-  * [Social Media Usage](https://data.cityofnewyork.us/api/views/5b3a-rs48/rows.json?accessType=DOWNLOAD)
-* United States Congress
+* United States Politicians
   * [Current US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
   * [Current US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
-  * [Bills Introduced in the 114th Congress (2015-2017)](https://www.govtrack.us/api/v2/bill?congress=114&limit=1000)
 
-> Protip: use offset=1000 to view the next 1000 bills. [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
+> Protip: [GovTrack](https://www.govtrack.us/) provides a [powerful API](https://www.govtrack.us/developers/api) for viewing data on Congress, roll calls, and bills.
 
 * Department of Justice
   * [Blog Entries](https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
   * [Press Releases](https://www.justice.gov/api/v1/press_releases.json?pagesize=2)
   * [Speeches](https://www.justice.gov/api/v1/speeches.json?pagesize=2)
   * [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
-* Department of Labor
-  * [Total Private Average Weekly Hours of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000002)
-  * [Total Private Average Hourly Earnings of All Employees](https://api.bls.gov/publicAPI/v2/timeseries/data/CES0500000003)
 * Scottish Parliament
   * [Departments](https://data.parliament.scot/api/departments)
   * [Events](https://data.parliament.scot/api/events)
@@ -144,25 +125,16 @@ A curated list of awesome JSON datasets that don't require authentication.
 * Government of India
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
   * [Consumer Price Index](https://data.gov.in/node/1084041/datastore/export/json)
-  * [PMJDY Monthly Report](https://data.gov.in/node/739941/datastore/export/json)
   * [Agriculture Production](https://data.gov.in/node/135611/datastore/export/json)
   * [Number of Districts/DRDAs/Blocks/Villages](https://data.gov.in/node/100853/datastore/export/json)
   * [Gross Domestic Product at Current Prices](https://www.quandl.com/api/v1/datasets/MOSPI/GDP.json)
-* [Australia](http://data.gov.au/)
+* Australia
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
-  * [Ballarat BBQ's](http://data.gov.au/dataset/f2ab58d7-18b7-44dc-9121-9cd0ae829d22/resource/8057e47e-967b-4e42-9451-06a8031133c8/download/ballaratbbqs.geojson)
-  * [Boat Ramps in the Gold Coast Area](http://data.gov.au/geoserver/boat-ramps/wfs?request=GetFeature&typeName=af1b8d1c_a186_4e72_8e9e_549a8065e970&outputFormat=json)
-  * [Indigenous Land Use Agreements (Registered or in Notification)](http://data.gov.au/geoserver/indigenous-land-use-agreements-registered-or-in-notification/wfs?request=GetFeature&typeName=ckan_9e837144_8070_4983_8bf0_15e7ceb56ed7&outputFormat=json)
-  * [NSW State Electoral Boundaries - PSMA Administrative Boundaries](http://data.gov.au/geoserver/nsw-state-electoral-boundaries-psma-administrative-boundaries/wfs?request=GetFeature&typeName=8047ddd1_7193_4667_aef9_b75bc3076075&outputFormat=json)
   * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
 * Amsterdam
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
-* [Michigan](https://data.michigan.gov/browse)
-  * [Fish](https://data.michigan.gov/api/views/he9h-7fpa/rows.json?accessType=DOWNLOAD)
-  * [State Facts](https://data.michigan.gov/api/views/pxdv-rgvb/rows.json?accessType=DOWNLOAD)
-  * [Baby Names](https://data.michigan.gov/api/views/nndy-b6rm/rows.json?accessType=DOWNLOAD)
 
 ## Historical Events
 * Languages
