@@ -4,7 +4,7 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Dataset of the month:* [Mr. Robot](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
+> *Dataset of the month:* [United States Historical Population (Since 1960)](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
 
 _Sponsored link:_ [DNSTrails Has The World's Largest Repository of historical DNS  data](https://dnstrails.com/?utm_source=awesome-json-datasets&utm_campaign=readme) 🎉
 
