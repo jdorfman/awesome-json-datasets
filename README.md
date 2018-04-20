@@ -18,7 +18,6 @@ _Sponsored link:_ [SecurityTrails Data Bounty Program $50-$250 USD payouts.](htt
 * [Government](#government)
 * [Historical Events](#historical-events)
 * [HTTP](#http)
-* [Media](#media)
 * [NASA](#nasa)
 * [Nobel Prize](#nobel-prize)
 * [Population](#population)
@@ -168,19 +167,6 @@ _Sponsored link:_ [SecurityTrails Data Bounty Program $50-$250 USD payouts.](htt
 * [cache](http://httpbin.org/cache/60) *(`60` === `60 seconds`)*
 
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
-
-## Media
-* [Giphy](https://github.com/Giphy/GiphyAPI)
-  * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
-  * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
-  * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)
-  * [Confused](http://api.giphy.com/v1/gifs/search?q=confused&api_key=dc6zaTOxFJmzC)
-  * [Angry](http://api.giphy.com/v1/gifs/search?q=angry&api_key=dc6zaTOxFJmzC)
-  * [Happy](http://api.giphy.com/v1/gifs/search?q=happy&api_key=dc6zaTOxFJmzC)
-  * [Crazy](http://api.giphy.com/v1/gifs/search?q=crazy&api_key=dc6zaTOxFJmzC)
-  * [Make it Rain](http://api.giphy.com/v1/gifs/search?q=make+it+rain&api_key=dc6zaTOxFJmzC)
-
-> Pro Tip: replace the `q` field-value for a query not listed e.g. `q=cartman+brah`.
 
 ## NASA
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
