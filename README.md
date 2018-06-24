@@ -4,9 +4,10 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Dataset of the month:* [United States Historical Population (Since 1960)](http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json)
+> *Link of the month:* [Jsonnet: a data templating language
+for app and tool developers](https://jsonnet.org/)
 
-_Sponsored link:_ [SecurityTrails Data Bounty Program $50-$250 USD payouts.](https://securitytrails.com/corp/bounty-program?utm_source=awesome-json-datasets&utm_campaign=readme) 💸💵💰🤑
+_Sponsored link:_ [Custom Hexagon Stickers by Sticker Mule](https://www.stickermule.com/uses/hexagon-stickers?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral )
 
 ## Contents
 * [Bitcoin](#bitcoin)
