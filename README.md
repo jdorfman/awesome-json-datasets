@@ -4,10 +4,9 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Link of the month:* [Jsonnet: a data templating language
-for app and tool developers](https://jsonnet.org/)
+> *Link of the month:* [Foreign Exchange Rates](https://exchangeratesapi.io/)
 
-_Sponsored link:_ [Custom Hexagon Stickers by Sticker Mule](https://www.stickermule.com/uses/hexagon-stickers?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral )
+_Sponsored link:_ [Premium Bootstrap Themes](https://www.bootstrapcdn.com/themes/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
 
 ## Contents
 * [Bitcoin](#bitcoin)
