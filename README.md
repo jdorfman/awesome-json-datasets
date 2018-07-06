@@ -57,23 +57,10 @@ _Sponsored link:_ [Custom Hexagon Stickers by Sticker Mule](https://www.stickerm
   * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
 
 ## Currency
-
-* [Latest Foreign Exchange Rates](http://api.fixer.io/latest)
-  * [USD](http://api.fixer.io/latest?base=USD)
-  * [AUD](http://api.fixer.io/latest?base=AUD)
-  * [GBP](http://api.fixer.io/latest?base=GBP)
-  * [HKD](http://api.fixer.io/latest?base=HKD)
-  * [HRK](http://api.fixer.io/latest?base=HRK)
-  * [HUF](http://api.fixer.io/latest?base=HUF)
-  * [JPY](http://api.fixer.io/latest?base=JPY)
-  * [ZAR](http://api.fixer.io/latest?base=ZAR)
-  * [EUR](http://api.fixer.io/latest?base=EUR)
-* [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
-* [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
-* [VAT rates for EU](http://jsonvat.com/)
-* [**Free** Foreign Exchange Rates](https://exchangeratesapi.io/)
+* [Foreign Exchange Rates](https://exchangeratesapi.io/)
   * [USD](https://exchangeratesapi.io/api/latest?base=USD)
   * [EUR](https://exchangeratesapi.io/api/latest?base=EUR)
+* [VAT rates for EU](http://jsonvat.com/)
 
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
