@@ -71,6 +71,9 @@ _Sponsored link:_ [Custom Hexagon Stickers by Sticker Mule](https://www.stickerm
 * [Compare Foreign Exchange Rates](http://api.fixer.io/latest?symbols=USD,GBP) *(Replace `USD,GBP` with `symbols` you want to compare.)*
 * [Historical Foreign Exchange Rates](http://api.fixer.io/2000-01-03) *(Replace `2000-01-03` with another date.)*
 * [VAT rates for EU](http://jsonvat.com/)
+* [**Free** Foreign Exchange Rates](https://exchangeratesapi.io/)
+  * [USD](https://exchangeratesapi.io/api/latest?base=USD)
+  * [EUR](https://exchangeratesapi.io/api/latest?base=EUR)
 
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
