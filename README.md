@@ -281,6 +281,15 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 > Pro Tip: replace the field-value for a show not listed e.g. `shows?q=show-name`. More options [here](http://www.tvmaze.com/api)
 
+* Rick and Morty
+  * [Get all characters](https://rickandmortyapi.com/api/character/)
+  * [Get a single character](https://rickandmortyapi.com/api/character/2)
+  * [Filter locations](https://rickandmortyapi.com/api/location/?name=earth)
+  * [Get an episode](https://rickandmortyapi.com/api/episode/12)
+  * [Get multiple episodes](https://rickandmortyapi.com/api/episode/10,28)
+
+> Pro Tip: More options at [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+
 ## Movies
 * [American movies scraped from Wikipedia](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json)
 * [Showtime](http://showtimes.everyday.in.th/api/v2/)
