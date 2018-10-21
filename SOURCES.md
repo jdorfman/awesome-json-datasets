@@ -34,3 +34,4 @@
 * [ip-api.com](http://ip-api.com/)
 * [ddragon.leageoflegends.com](http://ddragon.leagueoflegends.com/tool)
 * [rickandmortyapi.com](https://rickandmortyapi.com/)
+* [swapi.co](https://swapi.co/)

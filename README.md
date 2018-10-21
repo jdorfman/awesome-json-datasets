@@ -23,6 +23,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [Population](#population)
 * [GDP](#gdp)
 * [Reddit](#reddit)
+* [Star Wars](#star-wars)
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Movies](#movies)
@@ -242,6 +243,14 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [/r/linux](https://www.reddit.com/r/linux.json)
 
 > Pro Tip: you can append `.json` to any subreddit url.
+
+## Star Wars
+* [Films](https://swapi.co/api/films/)
+* [People](https://swapi.co/api/people/)
+* [Planets](https://swapi.co/api/planets/)
+* [Species](https://swapi.co/api/species/)
+* [Starships](https://swapi.co/api/starships/)
+* [Vehicles](https://swapi.co/api/vehicles/)
 
 ## Travel
 * [Global Airfields](https://ckannet-storage.commondatastorage.googleapis.com/2014-12-13T15:15:31.729Z/airfields.json)
