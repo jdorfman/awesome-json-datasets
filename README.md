@@ -85,7 +85,6 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 ## Government
 * [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
-  * [Market Research Library](http://developer.trade.gov/api/market-research-library.json)
   * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
   * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
 * United States Politicians
