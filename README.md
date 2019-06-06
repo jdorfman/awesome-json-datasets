@@ -56,10 +56,10 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
   * [Los Angeles (historical data since 2010)](https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD)
 
 ## Currency
-* [Foreign Exchange Rates](https://exchangeratesapi.io/)
-  * [USD](https://exchangeratesapi.io/api/latest?base=USD)
-  * [EUR](https://exchangeratesapi.io/api/latest?base=EUR)
 * [VAT rates for EU](http://jsonvat.com/)
+* [Exchange Rate API](https://www.exchangerate-api.com)
+  * [USD](https://api.exchangerate-api.com/v4/latest/USD)
+  * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
 
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
