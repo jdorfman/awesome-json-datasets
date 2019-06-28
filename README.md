@@ -44,6 +44,10 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
 * [Drought Severity Index](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(Palmer for the Contiguous US, 1895-2016)*
 
+## Commerce
+
+* [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/links.html) *(also includes reviews)*
+
 ## Crime
 
 * [DATA.POLICE.UK](https://data.police.uk/docs/)
