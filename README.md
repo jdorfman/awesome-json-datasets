@@ -122,6 +122,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * Australia
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
+  * [Museums Victoria Collections](https://collections.museumvictoria.com.au/api/search)
 * Amsterdam
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
