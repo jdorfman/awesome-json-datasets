@@ -196,31 +196,6 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 ## Population
 
-* Total Population Today
-  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/?format=json)
-  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/?format=json)
-  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/?format=json)
-  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/?format=json)
-  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/?format=json)
-  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/?format=json)
-  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/?format=json)
-  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/?format=json)
-  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/?format=json)
-  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/?format=json)
-  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/?format=json)
-  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/?format=json)
-
-> Pro Tip: [List of all Countries](http://api.population.io/1.0/countries) tracked
-
-* United States Population Table (Ages 0-100)
-    * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
-    * [1960](http://api.population.io/1.0/population/1960/United%20States/?format=json)
-    * [1970](http://api.population.io/1.0/population/1970/United%20States/?format=json)
-    * [1980](http://api.population.io/1.0/population/1980/United%20States/?format=json)
-    * [1990](http://api.population.io/1.0/population/1990/United%20States/?format=json)
-    * [2000](http://api.population.io/1.0/population/2000/United%20States/?format=json)
-    * [2010](http://api.population.io/1.0/population/2010/United%20States/?format=json)
-
 * Historical Population (Since 1960)
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
