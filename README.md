@@ -110,7 +110,6 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
   * [Museums Victoria Collections](https://collections.museumvictoria.com.au/api/search)
-* [Amsterdam](https://api.data.amsterdam.nl/api/) ([Google translation](https://translate.google.com/translate?sl=nl&tl=en&u=https%3A%2F%2Fapi.data.amsterdam.nl%2Fapi%2F))
 * Spain
   * [Province of Madrid Municipalities](https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json)
   * [Province of Barcelona Municipalities](https://do.diba.cat/api/dataset/municipis/format/json2)
