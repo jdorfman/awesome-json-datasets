@@ -13,6 +13,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Food](#food)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
 * [Government](#government)
@@ -58,6 +59,10 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 * [Exchange Rate API](https://www.exchangerate-api.com)
   * [USD](https://api.exchangerate-api.com/v4/latest/USD)
   * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
+
+## Food
+* [FDA product recalls](https://api.fda.gov/food/enforcement.json)
+* [Open Food Facts](https://world.openfoodfacts.org/files/api-documentation.html)
 
 ## Gaming
 * [Pokémon](https://pokeapi.co/docsv2/)
