@@ -62,7 +62,7 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
 
 ## Food
 * [FDA product recalls](https://api.fda.gov/food/enforcement.json)
-* [Open Food Facts](https://world.openfoodfacts.org/files/api-documentation.html)
+* [Open Food Facts](https://world.openfoodfacts.org/api/v0/product/5060292302201.json)
 
 ## Gaming
 * [Pokémon](https://pokeapi.co/docsv2/)
