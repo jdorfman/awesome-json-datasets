@@ -8,6 +8,8 @@
   },
   "license": "CC0 1.0",
   "dependencies": {
-    "markdownlint": "^0.6.1"
+    "axios": "^1.4.0",
+    "markdownlint": "^0.6.1",
+    "node-fetch": "^2.6.12"
   }
 }
