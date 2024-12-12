@@ -6,7 +6,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 > *Link of the month:* [Awesome Stacks by StackShare]( https://github.com/stackshareio/awesome-stacks)
 
-_Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
+_Sponsored links:_  [Hunt.io Threat Hunting Platform](https://hunt.io) & [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
 
 ## Contents
 * [Bitcoin](#bitcoin)
