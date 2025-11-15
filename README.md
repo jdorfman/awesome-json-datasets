@@ -83,6 +83,7 @@ _Sponsored links:_  [Hunt.io Threat Hunting Platform](https://hunt.io) & [Front 
 * [Events](https://api.github.com/events)
 * [Gists](https://api.github.com/gists)
 * [Meta](https://api.github.com/meta)
+* [JSON](https://gist.githubusercontent.com/karthik-248/some-gist.json) 
 
 ## Government
 * United States Politicians
