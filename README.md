@@ -13,6 +13,7 @@ _Sponsored links:_  [Hunt.io Threat Hunting Platform](https://hunt.io) & [Front 
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
+* [Employment](#employment)
 * [Food](#food)
 * [Gaming](#gaming)
 * [GitHub API](#github-api)
@@ -58,6 +59,10 @@ _Sponsored links:_  [Hunt.io Threat Hunting Platform](https://hunt.io) & [Front 
 * [Exchange Rate API](https://www.exchangerate-api.com)
   * [USD](https://api.exchangerate-api.com/v4/latest/USD)
   * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
+
+## Employment
+
+* [AI Displacement Tracker](https://raw.githubusercontent.com/noahaust2/ai-displacement-tracker/main/data/processed/ai_displacement.json) — 96+ AI-attributed workforce displacement events (457K+ workers) across 13 countries and 13 sectors. Structured JSON with company, date, worker count, sector, country, attribution tier, and sources. [GitHub repo](https://github.com/noahaust2/ai-displacement-tracker).
 
 ## Food
 * [FDA product recalls](https://api.fda.gov/food/enforcement.json)
